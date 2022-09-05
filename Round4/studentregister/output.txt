@@ -1,0 +1,69 @@
+All registered students:
+  Barton, Ernest 117127305
+  Benitez, Tod 182178540
+  Berg, Sierra 149541034
+  Brennan, Corinna 114226775
+  Clayton, Makeda 173162700
+  Gardner, Jinny 183511205
+  Hoover, Chiquita 173462526
+  Xiong, Rowena 112052227
+All registered courses:
+  LUOKE1.4-1 ESI- JA ALKUOPETUS/LAPSI JA KULTTUURI 3
+  DPIP.EPI.420 Epidemiologic data analysis using R 2
+  LUOKM7.1-1 KÄSITYÖN YLEISJAKSO 2
+  RAK.RS.220 Puu- ja teräsrakenteiden perusteet 5
+  FYS.425 Quantum Theory of Electronic Structures 5
+  SOSM5.1-1 SOSIAALITIETEEN TUTKIMUSMENETELMÄT 5
+  KIE.KM.313 Tekstianalyysi 5
+  KAS.LOM.070 Tiedekasvatus 5
+  COMM.NET.600 Wireless Networking 5
+  ARK.YS.530 Yhdyskuntasuunnittelun analyysit 5
+Trying to print attainments of an unknown student:
+  Unknown student number: 007
+Attainments for all students:
+Listing in original order:
+Barton, Ernest (117127305):
+  KAS.LOM.070 Tiedekasvatus: 5
+  ARK.YS.530 Yhdyskuntasuunnittelun analyysit: 3
+  COMM.NET.600 Wireless Networking: 4
+Listing in order of course name:
+Benitez, Tod (182178540):
+  LUOKE1.4-1 ESI- JA ALKUOPETUS/LAPSI JA KULTTUURI: 1
+  LUOKM7.1-1 KÄSITYÖN YLEISJAKSO: 3
+  RAK.RS.220 Puu- ja teräsrakenteiden perusteet: 3
+  COMM.NET.600 Wireless Networking: 1
+Listing in order of course code:
+Berg, Sierra (149541034):
+  COMM.NET.600 Wireless Networking: 4
+  RAK.RS.220 Puu- ja teräsrakenteiden perusteet: 3
+  SOSM5.1-1 SOSIAALITIETEEN TUTKIMUSMENETELMÄT: 4
+Listing in original order:
+Brennan, Corinna (114226775):
+  FYS.425 Quantum Theory of Electronic Structures: 3
+  LUOKE1.4-1 ESI- JA ALKUOPETUS/LAPSI JA KULTTUURI: 4
+  KIE.KM.313 Tekstianalyysi: 5
+  KAS.LOM.070 Tiedekasvatus: 5
+  LUOKM7.1-1 KÄSITYÖN YLEISJAKSO: 5
+  DPIP.EPI.420 Epidemiologic data analysis using R: 4
+Listing in order of course name:
+Clayton, Makeda (173162700):
+  LUOKM7.1-1 KÄSITYÖN YLEISJAKSO: 4
+Listing in order of course code:
+Gardner, Jinny (183511205):
+  ARK.YS.530 Yhdyskuntasuunnittelun analyysit: 1
+  DPIP.EPI.420 Epidemiologic data analysis using R: 3
+  FYS.425 Quantum Theory of Electronic Structures: 1
+  KIE.KM.313 Tekstianalyysi: 5
+  LUOKE1.4-1 ESI- JA ALKUOPETUS/LAPSI JA KULTTUURI: 2
+Listing in original order:
+Hoover, Chiquita (173462526):
+  KAS.LOM.070 Tiedekasvatus: 2
+  KIE.KM.313 Tekstianalyysi: 3
+  FYS.425 Quantum Theory of Electronic Structures: 3
+  RAK.RS.220 Puu- ja teräsrakenteiden perusteet: 2
+Listing in order of course name:
+Xiong, Rowena (112052227):
+  SOSM5.1-1 SOSIAALITIETEEN TUTKIMUSMENETELMÄT: 1
+  KIE.KM.313 Tekstianalyysi: 2
+  KAS.LOM.070 Tiedekasvatus: 1
+  ARK.YS.530 Yhdyskuntasuunnittelun analyysit: 4

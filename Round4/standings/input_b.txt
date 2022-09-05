@@ -1,0 +1,10 @@
+Mexico	1-0	Panama
+Honduras	1-1	USA
+Costa Rica	1-1	Mexico
+Panama	3-0	Trinidad and Tobago
+Mexico	3-1	Trinidad and Tobago
+USA	4-0	Panama
+Costa Rica	1-1	Honduras
+Honduras	3-2	Mexico
+Trinidad and Tobago	2-1	USA
+Panama	2-1	Costa Rica
