@@ -1,0 +1,22 @@
+word premature
+check
+init 400 6
+check
+char a
+char I
+char s
+char A
+char C
+char o
+char u
+word account
+char y
+check
+init 253 3
+check
+char x
+char A
+char T
+char w
+word harriet
+check

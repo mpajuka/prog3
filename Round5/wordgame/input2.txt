@@ -1,0 +1,16 @@
+char a
+init 197 6
+check
+char a
+char i
+char s
+char n
+char c
+char p
+char e
+word bear
+word head
+init 125 2
+char i
+char s
+char a

@@ -1,0 +1,32 @@
+Guessing 'a'.
+GameStateException: There is currently no active word game!
+Initializing a new game with 197 and 6.
+Checking game state.
+  A game is currently active.
+Guessing 'a'.
+  Word: __a_ (0/6 wrong guesses, 3 missing chars left)
+Guessing 'i'.
+  Word: __a_ (1/6 wrong guesses, 3 missing chars left)
+Guessing 's'.
+  Word: __a_ (2/6 wrong guesses, 3 missing chars left)
+Guessing 'n'.
+  Word: __a_ (3/6 wrong guesses, 3 missing chars left)
+Guessing 'c'.
+  Word: __a_ (4/6 wrong guesses, 3 missing chars left)
+Guessing 'p'.
+  Word: __a_ (5/6 wrong guesses, 3 missing chars left)
+Guessing 'e'.
+  Word: _ea_ (5/6 wrong guesses, 2 missing chars left)
+Guessing "bear".
+  Word: _ea_ (6/6 wrong guesses, 2 missing chars left)
+Guessing "head".
+  Word: meat (7/6 wrong guesses, 2 missing chars left)
+  The player lost!
+Initializing a new game with 125 and 2.
+Guessing 'i'.
+  Word: ____ (1/2 wrong guesses, 4 missing chars left)
+Guessing 's'.
+  Word: ____ (2/2 wrong guesses, 4 missing chars left)
+Guessing 'a'.
+  Word: food (3/2 wrong guesses, 4 missing chars left)
+  The player lost!
