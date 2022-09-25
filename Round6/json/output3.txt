@@ -1,0 +1,19 @@
+ObjectNode
+address: ObjectNode
+city: StringValue("New York")
+postalCode: StringValue("10021-3100")
+state: StringValue("NY")
+streetAddress: StringValue("21 2nd Street")
+age: NumberValue(27)
+children: ArrayNode
+firstName: StringValue("John")
+isAlive: BooleanValue(true)
+lastName: StringValue("Smith")
+phoneNumbers: ArrayNode
+ObjectNode
+number: StringValue("212 555-1234")
+type: StringValue("home")
+ObjectNode
+number: StringValue("646 555-4567")
+type: StringValue("office")
+spouse: NullValue(null)

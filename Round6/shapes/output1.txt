@@ -1,0 +1,20 @@
+
+Shape 1:
+Circle with radius: 4.00
+Area of circle: 50.27
+Circumference of circle: 25.13
+
+Shape 2:
+Circle with radius: 5.00
+Area of circle: 78.54
+Circumference of circle: 31.42
+
+Shape 3:
+Circle with radius: 6.00
+Area of circle: 113.10
+Circumference of circle: 37.70
+
+Shape 4:
+Circle with radius: 7.00
+Area of circle: 153.94
+Circumference of circle: 43.98
