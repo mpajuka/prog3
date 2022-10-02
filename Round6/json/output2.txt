@@ -1,0 +1,20 @@
+ObjectNode
+address: ObjectNode
+city: StringValue("Tampere")
+country: StringValue("Finland")
+faculties: ArrayNode
+ObjectNode
+name: StringValue("Faculty of Built Environment")
+ObjectNode
+name: StringValue("Faculty of Education and Culture")
+ObjectNode
+name: StringValue("Faculty of Engineering and Natural Sciences")
+ObjectNode
+name: StringValue("Faculty of Information Technology and Communication Sciences")
+ObjectNode
+name: StringValue("Faculty of Management and Business")
+ObjectNode
+name: StringValue("Faculty of Medicine and Health Technology")
+ObjectNode
+name: StringValue("Faculty of Social Sciences")
+name: StringValue("Tampere University")

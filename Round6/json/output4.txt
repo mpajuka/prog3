@@ -1,0 +1,76 @@
+ArrayNode
+ObjectNode
+birthPlace: ObjectNode
+city: StringValue("Manacor")
+country: StringValue("Spain")
+grandSlamTitles: ObjectNode
+Australian Open: ObjectNode
+years: ArrayNode
+NumberValue(2009)
+NumberValue(2022)
+French Open: ObjectNode
+years: ArrayNode
+NumberValue(2005)
+NumberValue(2006)
+NumberValue(2007)
+NumberValue(2008)
+NumberValue(2010)
+NumberValue(2011)
+NumberValue(2012)
+NumberValue(2013)
+NumberValue(2014)
+NumberValue(2017)
+NumberValue(2018)
+NumberValue(2019)
+NumberValue(2020)
+US Open: ObjectNode
+years: ArrayNode
+NumberValue(2010)
+NumberValue(2013)
+NumberValue(2017)
+NumberValue(2019)
+Wimbledon: ObjectNode
+years: ArrayNode
+NumberValue(2008)
+NumberValue(2010)
+name: StringValue("Rafael Nadal")
+ObjectNode
+birthPlace: ObjectNode
+city: StringValue("Tibro")
+country: StringValue("Sweden")
+grandSlamTitles: ObjectNode
+name: StringValue("Robin Söderling")
+ObjectNode
+birthPlace: ObjectNode
+city: StringValue("Basel")
+country: StringValue("Switzerland")
+grandSlamTitles: ObjectNode
+Australian Open: ObjectNode
+years: ArrayNode
+NumberValue(2004)
+NumberValue(2006)
+NumberValue(2007)
+NumberValue(2010)
+NumberValue(2017)
+NumberValue(2018)
+French Open: ObjectNode
+years: ArrayNode
+NumberValue(2009)
+US Open: ObjectNode
+years: ArrayNode
+NumberValue(2004)
+NumberValue(2005)
+NumberValue(2006)
+NumberValue(2007)
+NumberValue(2008)
+Wimbledon: ObjectNode
+years: ArrayNode
+NumberValue(2003)
+NumberValue(2004)
+NumberValue(2005)
+NumberValue(2006)
+NumberValue(2007)
+NumberValue(2009)
+NumberValue(2012)
+NumberValue(2017)
+name: StringValue("Roger Federer")

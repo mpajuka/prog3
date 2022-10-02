@@ -1,0 +1,20 @@
+
+Shape 1:
+Rectangle with height 4.00 and width 4.00
+Area of rectangle: 16.00
+Circumference of rectangle: 16.00
+
+Shape 2:
+Rectangle with height 5.00 and width 2.00
+Area of rectangle: 10.00
+Circumference of rectangle: 14.00
+
+Shape 3:
+Rectangle with height 6.00 and width 12.00
+Area of rectangle: 72.00
+Circumference of rectangle: 36.00
+
+Shape 4:
+Rectangle with height 70.00 and width 4.00
+Area of rectangle: 280.00
+Circumference of rectangle: 148.00
