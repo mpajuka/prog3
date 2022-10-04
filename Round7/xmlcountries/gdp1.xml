@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="SAU">Saudi Arabia</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">650714601909.915</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LVA">Latvia</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">29604557971.0212</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="PRI">Puerto Rico</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">92660076632.5087</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="MOZ">Mozambique</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">17959222232.3238</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUM">Guam</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">5259729936.30573</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUY">Guyana</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">7275908034.11422</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="JAM">Jamaica</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">13440715454.4634</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LBY">Libya</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">27805590095.5454</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IND">India</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">2500132192252.07</field>
+    </record>
+  </data>
+</Root>

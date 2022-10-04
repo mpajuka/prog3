@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="KHM">Cambodia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">16718971</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="MYS">Malaysia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">32365998</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GRD">Grenada</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">112519</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ARM">Armenia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">2963234</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AUT">Austria</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">8917205</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LVA">Latvia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">1901548</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LUX">Luxembourg</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">632275</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUM">Guam</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">168783</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUY">Guyana</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">786559</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="SVN">Slovenia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">2100126</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="TON">Tonga</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">105697</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="BHR">Bahrain</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">1701583</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IND">India</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">1380004385</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="CAN">Canada</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">38005238</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GNB">Guinea-Bissau</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">1967998</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IRN">Iran, Islamic Rep.</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">83992953</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LAO">Lao PDR</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">7275556</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="FIN">Finland</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">5530719</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="FRO">Faroe Islands</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">48865</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ITA">Italy</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">59554023</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ZAF">South Africa</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">59308690</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="PER">Peru</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">32971846</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="DEU">Germany</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">83240525</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="RUS">Russian Federation</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">144104080</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GIN">Guinea</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">13132792</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="BOL">Bolivia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">11673029</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="THA">Thailand</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">69799978</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GNQ">Equatorial Guinea</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">1402985</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="SAU">Saudi Arabia</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">34813867</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AND">Andorra</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">77265</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IRL">Ireland</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">4994724</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="SYR">Syrian Arab Republic</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">17500657</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="PHL">Philippines</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">109581085</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="WSM">Samoa</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">198410</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="AZE">Azerbaijan</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">10093121</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="BGD">Bangladesh</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">164689383</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="BWA">Botswana</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">2351625</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="DNK">Denmark</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">5831404</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="MNE">Montenegro</field>
+      <field name="Item" key="SP.POP.TOTL">Population, total</field>
+      <field name="Value">621306</field>
+    </record>
+  </data>
+</Root>

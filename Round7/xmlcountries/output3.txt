@@ -1,0 +1,195 @@
+Andorra
+  Area: 470.0 km2
+  Population: 77265
+  GDP: 2649303923.7 (2015 USD)
+
+Armenia
+  Area: 29740.0 km2
+  Population: 2963234
+  GDP: 11915301005.3 (2015 USD)
+
+Austria
+  Area: 83879.0 km2
+  Population: 8917205
+  GDP: 386358828360.0 (2015 USD)
+
+Azerbaijan
+  Area: 86600.0 km2
+  Population: 10093121
+  GDP: 51307185972.7 (2015 USD)
+
+Bahrain
+  Area: 780.0 km2
+  Population: 1701583
+  GDP: 33206179338.1 (2015 USD)
+
+Bangladesh
+  Area: 147570.0 km2
+  Population: 164689383
+  GDP: 270695543283.1 (2015 USD)
+
+Bolivia
+  Area: 1098580.0 km2
+  Population: 11673029
+  GDP: 34820961246.6 (2015 USD)
+
+Botswana
+  Area: 581730.0 km2
+  Population: 2351625
+  GDP: 14813376718.9 (2015 USD)
+
+Cambodia
+  Area: 181040.0 km2
+  Population: 16718971
+  GDP: 23012192756.0 (2015 USD)
+
+Canada
+  Area: 9879750.0 km2
+  Population: 38005238
+  GDP: 1607402450990.1 (2015 USD)
+
+Denmark
+  Area: 42920.0 km2
+  Population: 5831404
+  GDP: 327737534762.4 (2015 USD)
+
+Equatorial Guinea
+  Area: 28050.0 km2
+  Population: 1402985
+  GDP: 9509201933.4 (2015 USD)
+
+Faroe Islands
+  Area: 1396.0 km2
+  Population: 48865
+  GDP: 2518096285.6 (2015 USD)
+
+Finland
+  Area: 338450.0 km2
+  Population: 5530719
+  GDP: 247507105784.0 (2015 USD)
+
+Germany
+  Area: 357580.0 km2
+  Population: 83240525
+  GDP: 3434435991589.5 (2015 USD)
+
+Grenada
+  Area: 340.0 km2
+  Population: 112519
+  GDP: 979357778.2 (2015 USD)
+
+Guam
+  Area: 540.0 km2
+  Population: 168783
+  GDP: 5259729936.3 (2015 USD)
+
+Guinea
+  Area: 245860.0 km2
+  Population: 13132792
+  GDP: 12922776921.4 (2015 USD)
+
+Guinea-Bissau
+  Area: 36130.0 km2
+  Population: 1967998
+  GDP: 1218759824.0 (2015 USD)
+
+Guyana
+  Area: 214970.0 km2
+  Population: 786559
+  GDP: 7275908034.1 (2015 USD)
+
+India
+  Area: 3287259.0 km2
+  Population: 1380004385
+  GDP: 2500132192252.1 (2015 USD)
+
+Iran, Islamic Rep.
+  Area: 1745150.0 km2
+  Population: 83992953
+  GDP: 410188057889.5 (2015 USD)
+
+Ireland
+  Area: 70280.0 km2
+  Population: 4994724
+  GDP: 392377013983.2 (2015 USD)
+
+Italy
+  Area: 302070.0 km2
+  Population: 59554023
+  GDP: 1744731951797.4 (2015 USD)
+
+Lao PDR
+  Area: 236800.0 km2
+  Population: 7275556
+  GDP: 18584865505.7 (2015 USD)
+
+Latvia
+  Area: 64570.0 km2
+  Population: 1901548
+  GDP: 29604557971.0 (2015 USD)
+
+Luxembourg
+  Area: 2590.0 km2
+  Population: 632275
+  GDP: 66091291203.4 (2015 USD)
+
+Malaysia
+  Area: 330345.0 km2
+  Population: 32365998
+  GDP: 344099347074.6 (2015 USD)
+
+Montenegro
+  Area: 13810.0 km2
+  Population: 621306
+  GDP: 4046328370.5 (2015 USD)
+
+Peru
+  Area: 1285220.0 km2
+  Population: 32971846
+  GDP: 190979128768.5 (2015 USD)
+
+Philippines
+  Area: 300000.0 km2
+  Population: 109581085
+  GDP: 358294070261.0 (2015 USD)
+
+Russian Federation
+  Area: 17098250.0 km2
+  Population: 144104080
+  GDP: 1416124431328.3 (2015 USD)
+
+Samoa
+  Area: 2840.0 km2
+  Population: 198410
+  GDP: 864485987.5 (2015 USD)
+
+Saudi Arabia
+  Area: 2149690.0 km2
+  Population: 34813867
+  GDP: 650714601909.9 (2015 USD)
+
+Slovenia
+  Area: 20480.0 km2
+  Population: 2100126
+  GDP: 48124693310.9 (2015 USD)
+
+South Africa
+  Area: 1219090.0 km2
+  Population: 59308690
+  GDP: 335640150576.1 (2015 USD)
+
+Syrian Arab Republic
+  Area: 185180.0 km2
+  Population: 17500657
+  GDP: 16265870694.9 (2015 USD)
+
+Thailand
+  Area: 513120.0 km2
+  Population: 69799978
+  GDP: 432649179610.3 (2015 USD)
+
+Tonga
+  Area: 750.0 km2
+  Population: 105697
+  GDP: 489364573.4 (2015 USD)
+

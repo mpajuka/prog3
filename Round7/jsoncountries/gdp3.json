@@ -1,0 +1,1023 @@
+{
+	"Root":
+	{
+		"data":
+		{
+			"record": [
+			{
+				"field": [
+				{
+					"value": "Cambodia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "KHM"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "23012192756.0004",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Malaysia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "MYS"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "344099347074.638",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Grenada",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GRD"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "979357778.228225",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Armenia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "ARM"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "11915301005.3428",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Austria",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "AUT"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "386358828359.98",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Latvia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LVA"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "29604557971.0212",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Luxembourg",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LUX"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "66091291203.4122",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guam",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GUM"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "5259729936.30573",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guyana",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GUY"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "7275908034.11422",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Slovenia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "SVN"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "48124693310.8877",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Tonga",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "TON"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "489364573.366461",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Bahrain",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "BHR"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "33206179338.0924",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "India",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "IND"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "2500132192252.07",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Canada",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "CAN"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "1607402450990.09",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guinea-Bissau",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GNB"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "1218759824.0375",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Iran, Islamic Rep.",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "IRN"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "410188057889.547",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Lao PDR",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LAO"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "18584865505.7243",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Finland",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "FIN"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "247507105783.956",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Faroe Islands",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "FRO"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "2518096285.61661",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Italy",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "ITA"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "1744731951797.4",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "South Africa",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "ZAF"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "335640150576.122",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Peru",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "PER"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "190979128768.533",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Germany",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "DEU"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "3434435991589.48",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Russian Federation",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "RUS"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "1416124431328.3",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guinea",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GIN"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "12922776921.3699",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Bolivia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "BOL"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "34820961246.5927",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Thailand",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "THA"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "432649179610.326",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Equatorial Guinea",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GNQ"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "9509201933.42394",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Saudi Arabia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "SAU"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "650714601909.915",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Andorra",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "AND"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "2649303923.74954",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Ireland",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "IRL"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "392377013983.203",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Syrian Arab Republic",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "SYR"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "16265870694.9063",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Philippines",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "PHL"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "358294070260.977",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Samoa",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "WSM"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "864485987.503765",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Azerbaijan",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "AZE"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "51307185972.7133",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Bangladesh",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "BGD"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "270695543283.145",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Botswana",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "BWA"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "14813376718.8645",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Denmark",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "DNK"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "327737534762.376",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Montenegro",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "MNE"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "4046328370.4823",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			}]
+		}
+	}
+}

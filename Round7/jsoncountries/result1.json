@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Guam",
+    "area": 540.0,
+    "population": 168783,
+    "gdp": 5.25972993630573E9
+  },
+  {
+    "name": "Guyana",
+    "area": 214970.0,
+    "population": 786559,
+    "gdp": 7.27590803411422E9
+  },
+  {
+    "name": "India",
+    "area": 3287259.0,
+    "population": 1380004385,
+    "gdp": 2.50013219225207E12
+  },
+  {
+    "name": "Jamaica",
+    "area": 10990.0,
+    "population": 2961161,
+    "gdp": 1.34407154544634E10
+  },
+  {
+    "name": "Latvia",
+    "area": 64570.0,
+    "population": 1901548,
+    "gdp": 2.96045579710212E10
+  },
+  {
+    "name": "Libya",
+    "area": 1759540.0,
+    "population": 6871287,
+    "gdp": 2.78055900955454E10
+  },
+  {
+    "name": "Mozambique",
+    "area": 799380.0,
+    "population": 31255435,
+    "gdp": 1.79592222323238E10
+  },
+  {
+    "name": "Puerto Rico",
+    "area": 8870.0,
+    "population": 3194034,
+    "gdp": 9.26600766325087E10
+  },
+  {
+    "name": "Saudi Arabia",
+    "area": 2149690.0,
+    "population": 34813867,
+    "gdp": 6.50714601909915E11
+  }
+]

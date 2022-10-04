@@ -1,0 +1,236 @@
+[
+  {
+    "name": "Andorra",
+    "area": 470.0,
+    "population": 77265,
+    "gdp": 2.64930392374954E9
+  },
+  {
+    "name": "Armenia",
+    "area": 29740.0,
+    "population": 2963234,
+    "gdp": 1.19153010053428E10
+  },
+  {
+    "name": "Austria",
+    "area": 83879.0,
+    "population": 8917205,
+    "gdp": 3.8635882835998E11
+  },
+  {
+    "name": "Azerbaijan",
+    "area": 86600.0,
+    "population": 10093121,
+    "gdp": 5.13071859727133E10
+  },
+  {
+    "name": "Bahrain",
+    "area": 780.0,
+    "population": 1701583,
+    "gdp": 3.32061793380924E10
+  },
+  {
+    "name": "Bangladesh",
+    "area": 147570.0,
+    "population": 164689383,
+    "gdp": 2.70695543283145E11
+  },
+  {
+    "name": "Bolivia",
+    "area": 1098580.0,
+    "population": 11673029,
+    "gdp": 3.48209612465927E10
+  },
+  {
+    "name": "Botswana",
+    "area": 581730.0,
+    "population": 2351625,
+    "gdp": 1.48133767188645E10
+  },
+  {
+    "name": "Cambodia",
+    "area": 181040.0,
+    "population": 16718971,
+    "gdp": 2.30121927560004E10
+  },
+  {
+    "name": "Canada",
+    "area": 9879750.0,
+    "population": 38005238,
+    "gdp": 1.60740245099009E12
+  },
+  {
+    "name": "Denmark",
+    "area": 42920.0,
+    "population": 5831404,
+    "gdp": 3.27737534762376E11
+  },
+  {
+    "name": "Equatorial Guinea",
+    "area": 28050.0,
+    "population": 1402985,
+    "gdp": 9.50920193342394E9
+  },
+  {
+    "name": "Faroe Islands",
+    "area": 1396.0,
+    "population": 48865,
+    "gdp": 2.51809628561661E9
+  },
+  {
+    "name": "Finland",
+    "area": 338450.0,
+    "population": 5530719,
+    "gdp": 2.47507105783956E11
+  },
+  {
+    "name": "Germany",
+    "area": 357580.0,
+    "population": 83240525,
+    "gdp": 3.43443599158948E12
+  },
+  {
+    "name": "Grenada",
+    "area": 340.0,
+    "population": 112519,
+    "gdp": 9.79357778228225E8
+  },
+  {
+    "name": "Guam",
+    "area": 540.0,
+    "population": 168783,
+    "gdp": 5.25972993630573E9
+  },
+  {
+    "name": "Guinea",
+    "area": 245860.0,
+    "population": 13132792,
+    "gdp": 1.29227769213699E10
+  },
+  {
+    "name": "Guinea-Bissau",
+    "area": 36130.0,
+    "population": 1967998,
+    "gdp": 1.2187598240375E9
+  },
+  {
+    "name": "Guyana",
+    "area": 214970.0,
+    "population": 786559,
+    "gdp": 7.27590803411422E9
+  },
+  {
+    "name": "India",
+    "area": 3287259.0,
+    "population": 1380004385,
+    "gdp": 2.50013219225207E12
+  },
+  {
+    "name": "Iran, Islamic Rep.",
+    "area": 1745150.0,
+    "population": 83992953,
+    "gdp": 4.10188057889547E11
+  },
+  {
+    "name": "Ireland",
+    "area": 70280.0,
+    "population": 4994724,
+    "gdp": 3.92377013983203E11
+  },
+  {
+    "name": "Italy",
+    "area": 302070.0,
+    "population": 59554023,
+    "gdp": 1.7447319517974E12
+  },
+  {
+    "name": "Lao PDR",
+    "area": 236800.0,
+    "population": 7275556,
+    "gdp": 1.85848655057243E10
+  },
+  {
+    "name": "Latvia",
+    "area": 64570.0,
+    "population": 1901548,
+    "gdp": 2.96045579710212E10
+  },
+  {
+    "name": "Luxembourg",
+    "area": 2590.0,
+    "population": 632275,
+    "gdp": 6.60912912034122E10
+  },
+  {
+    "name": "Malaysia",
+    "area": 330345.0,
+    "population": 32365998,
+    "gdp": 3.44099347074638E11
+  },
+  {
+    "name": "Montenegro",
+    "area": 13810.0,
+    "population": 621306,
+    "gdp": 4.0463283704823E9
+  },
+  {
+    "name": "Peru",
+    "area": 1285220.0,
+    "population": 32971846,
+    "gdp": 1.90979128768533E11
+  },
+  {
+    "name": "Philippines",
+    "area": 300000.0,
+    "population": 109581085,
+    "gdp": 3.58294070260977E11
+  },
+  {
+    "name": "Russian Federation",
+    "area": 1.709825E7,
+    "population": 144104080,
+    "gdp": 1.4161244313283E12
+  },
+  {
+    "name": "Samoa",
+    "area": 2840.0,
+    "population": 198410,
+    "gdp": 8.64485987503765E8
+  },
+  {
+    "name": "Saudi Arabia",
+    "area": 2149690.0,
+    "population": 34813867,
+    "gdp": 6.50714601909915E11
+  },
+  {
+    "name": "Slovenia",
+    "area": 20480.0,
+    "population": 2100126,
+    "gdp": 4.81246933108877E10
+  },
+  {
+    "name": "South Africa",
+    "area": 1219090.0,
+    "population": 59308690,
+    "gdp": 3.35640150576122E11
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "area": 185180.0,
+    "population": 17500657,
+    "gdp": 1.62658706949063E10
+  },
+  {
+    "name": "Thailand",
+    "area": 513120.0,
+    "population": 69799978,
+    "gdp": 4.32649179610326E11
+  },
+  {
+    "name": "Tonga",
+    "area": 750.0,
+    "population": 105697,
+    "gdp": 4.89364573366461E8
+  }
+]
