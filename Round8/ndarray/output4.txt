@@ -1,0 +1,3 @@
+Self computed sum: 16605199
+Summary statistics:
+IntSummaryStatistics{count=33600, sum=16605199, min=0, average=494.202351, max=990}

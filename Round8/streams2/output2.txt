@@ -1,0 +1,44 @@
+Top 15 directors with highest number of movies:
+Akira Kurosawa: 10 movies
+Alfred Hitchcock: 9 movies
+Stanley Kubrick: 9 movies
+Billy Wilder: 8 movies
+Christopher Nolan: 8 movies
+Martin Scorsese: 8 movies
+Ingmar Bergman: 7 movies
+Quentin Tarantino: 7 movies
+Steven Spielberg: 7 movies
+Charles Chaplin: 6 movies
+Hayao Miyazaki: 6 movies
+Andrei Tarkovsky: 5 movies
+Clint Eastwood: 5 movies
+Federico Fellini: 5 movies
+Asghar Farhadi: 4 movies
+
+Average duration by genre:
+Fantasy: 85.00
+Film-Noir: 102.00
+Animation: 102.18
+Horror: 110.60
+Comedy: 117.31
+Mystery: 125.71
+Drama: 125.73
+Crime: 129.56
+Action: 136.25
+Adventure: 138.80
+Biography: 140.60
+Western: 148.50
+
+Average score by genre:
+Western: 8.40
+Mystery: 8.20
+Crime: 8.19
+Horror: 8.18
+Action: 8.15
+Drama: 8.11
+Biography: 8.11
+Animation: 8.11
+Adventure: 8.08
+Comedy: 8.06
+Film-Noir: 8.05
+Fantasy: 8.00

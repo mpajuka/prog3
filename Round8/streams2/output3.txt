@@ -1,0 +1,51 @@
+Top 20 directors with highest number of movies:
+Steven Spielberg: 6 movies
+Alfred Hitchcock: 5 movies
+David Fincher: 5 movies
+Hayao Miyazaki: 5 movies
+Woody Allen: 5 movies
+Alfonso Cuarón: 4 movies
+Howard Hawks: 4 movies
+Matthew Vaughn: 4 movies
+Rob Reiner: 4 movies
+Ang Lee: 3 movies
+Clint Eastwood: 3 movies
+Don Siegel: 3 movies
+Fred Zinnemann: 3 movies
+James Whale: 3 movies
+Jim Jarmusch: 3 movies
+Joel Coen: 3 movies
+John Huston: 3 movies
+Robert Zemeckis: 3 movies
+Spike Lee: 3 movies
+Terrence Malick: 3 movies
+
+Average duration by genre:
+Horror: 95.00
+Animation: 97.43
+Comedy: 105.91
+Family: 107.50
+Film-Noir: 108.00
+Thriller: 108.00
+Mystery: 109.80
+Crime: 120.41
+Action: 121.08
+Drama: 122.46
+Adventure: 126.52
+Biography: 130.00
+Western: 135.00
+
+Average score by genre:
+Family: 7.80
+Film-Noir: 7.80
+Thriller: 7.80
+Western: 7.80
+Adventure: 7.71
+Biography: 7.71
+Comedy: 7.70
+Animation: 7.70
+Action: 7.70
+Drama: 7.70
+Crime: 7.70
+Horror: 7.68
+Mystery: 7.66
