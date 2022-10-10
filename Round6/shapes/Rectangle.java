@@ -8,7 +8,7 @@ public class Rectangle implements IShapeMetrics {
 
     @Override
     public String toString() {
-        return String.format("Rectangle height with height %.2f and width %.2f",
+        return String.format("Rectangle with height %.2f and width %.2f",
                              height, width);
     }
 
