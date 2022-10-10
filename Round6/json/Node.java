@@ -18,9 +18,96 @@ public abstract class Node {
   }
 
   public void printJson() {
-    throw new UnsupportedOperationException("printJson has not been implemented!");
+    StringBuilder sb = new StringBuilder();
+    int count = 0;
+    printJson(this, sb, count);
+    System.out.print(sb);
   }
 
+  private void printJson(Node node, StringBuilder sb, int count) {
+    String spaces = "  ";
+
+    if (node.isObject()) {
+      ObjectNode objNode = (ObjectNode) node;
+      sb.append("{").append(NL);
+      count++;
+      int i = 0;
+      for (String name : objNode) {
+        sb.append(spaces.repeat(count));
+        sb.append("\"");
+        sb.append(name).append("\": ");
+
+        if (i < objNode.size() - 1) {
+          printJson(objNode.get(name), sb, count);
+          i++;
+        } else {
+          printJson(objNode.get(name), sb, count);;
+        }
+
+      }
+      count--;
+      sb.append(spaces.repeat(count));
+
+
+      sb.append("}");
+
+      sb.append(NL);
+
+
+
+    }
+    else if (node.isArray()) {
+      ArrayNode arrNode = (ArrayNode) node;
+      sb.append("[").append(NL);
+      count++;
+      int i = 0;
+      for (Node aNode : arrNode) {
+        sb.append(spaces.repeat(count));
+        sb.append("{").append(NL);
+        sb.append(spaces.repeat(count + 1));
+        sb.append("\"" + "name" + "\"" + ": ");
+
+        if (i == arrNode.size()) {
+          printJson(aNode, sb, count);
+        } else {
+          printJson(aNode, sb, count);
+          i++;
+        }
+
+        sb.append(spaces.repeat(count));
+
+        sb.append("}");
+        if (i < arrNode.size()) {
+          sb.append(",");
+        }
+        sb.append(NL);
+      }
+      count--;
+
+      sb.append(spaces.repeat(count));
+      sb.append("]");
+      sb.append(",");
+      sb.append(NL);
+
+    }
+    else if(node.isValue()) {
+      ValueNode valNode = (ValueNode) node;
+      String valStr = "null";
+      if (valNode.isNumber()) {
+        valStr = numberToString(valNode.getNumber());
+
+      }
+      else if (valNode.isBoolean()) {
+        valStr = Boolean.toString(valNode.getBoolean());
+
+
+      }
+      else if (valNode.isString()) {
+        valStr = "\"" + valNode.getString() + "\"";
+      }
+      sb.append(String.format("%s%n", valStr));
+    }
+  }
   private static final String NL = System.lineSeparator();
 
   private static String numberToString(Double d) {
