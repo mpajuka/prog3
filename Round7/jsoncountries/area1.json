@@ -1,0 +1,243 @@
+{
+	"Root":
+	{
+		"data":
+		{
+			"record": [
+			{
+				"field": [
+				{
+					"value": "Saudi Arabia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "SAU"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "2149690",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Latvia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LVA"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "64570",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Puerto Rico",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "PRI"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "8870",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Mozambique",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "MOZ"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "799380",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guam",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GUM"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "540",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guyana",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GUY"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "214970",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Jamaica",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "JAM"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "10990",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Libya",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LBY"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "1759540",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "India",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "IND"
+					}
+				},
+				{
+					"value": "Surface area (sq. km)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "AG.SRF.TOTL.K2"
+					}
+				},
+				{
+					"value": "3287259",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			}]
+		}
+	}
+}

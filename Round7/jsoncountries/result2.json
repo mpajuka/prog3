@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Bahrain",
+    "area": 780.0,
+    "population": 1701583,
+    "gdp": 3.32061793380924E10
+  },
+  {
+    "name": "Comoros",
+    "area": 1861.0,
+    "population": 869595,
+    "gdp": 1.09137994182261E9
+  },
+  {
+    "name": "Equatorial Guinea",
+    "area": 28050.0,
+    "population": 1402985,
+    "gdp": 9.50920193342394E9
+  },
+  {
+    "name": "Georgia",
+    "area": 69700.0,
+    "population": 3714000,
+    "gdp": 1.65573908694311E10
+  },
+  {
+    "name": "Guam",
+    "area": 540.0,
+    "population": 168783,
+    "gdp": 5.25972993630573E9
+  },
+  {
+    "name": "Guatemala",
+    "area": 108890.0,
+    "population": 16858333,
+    "gdp": 6.95609465546216E10
+  },
+  {
+    "name": "Guinea",
+    "area": 245860.0,
+    "population": 13132792,
+    "gdp": 1.29227769213699E10
+  },
+  {
+    "name": "India",
+    "area": 3287259.0,
+    "population": 1380004385,
+    "gdp": 2.50013219225207E12
+  },
+  {
+    "name": "Indonesia",
+    "area": 1916862.2,
+    "population": 273523621,
+    "gdp": 1.02760285405275E12
+  },
+  {
+    "name": "Italy",
+    "area": 302070.0,
+    "population": 59554023,
+    "gdp": 1.7447319517974E12
+  },
+  {
+    "name": "Jordan",
+    "area": 89320.0,
+    "population": 10203140,
+    "gdp": 4.11080736169012E10
+  },
+  {
+    "name": "Maldives",
+    "area": 300.0,
+    "population": 540542,
+    "gdp": 3.60046015287054E9
+  },
+  {
+    "name": "Spain",
+    "area": 505957.289,
+    "population": 47351567,
+    "gdp": 1.18073023758572E12
+  },
+  {
+    "name": "Tajikistan",
+    "area": 141380.0,
+    "population": 9537642,
+    "gdp": 1.14362039545867E10
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "area": 950.0,
+    "population": 38718,
+    "gdp": 8.02388550964229E8
+  },
+  {
+    "name": "United Kingdom",
+    "area": 243610.0,
+    "population": 67215293,
+    "gdp": 2.89161558046342E12
+  },
+  {
+    "name": "Vanuatu",
+    "area": 12190.0,
+    "population": 307150,
+    "gdp": 8.1053580563569E8
+  }
+]

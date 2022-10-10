@@ -1,0 +1,85 @@
+Bahrain
+  Area: 780.0 km2
+  Population: 1701583
+  GDP: 33206179338.1 (2015 USD)
+
+Comoros
+  Area: 1861.0 km2
+  Population: 869595
+  GDP: 1091379941.8 (2015 USD)
+
+Equatorial Guinea
+  Area: 28050.0 km2
+  Population: 1402985
+  GDP: 9509201933.4 (2015 USD)
+
+Georgia
+  Area: 69700.0 km2
+  Population: 3714000
+  GDP: 16557390869.4 (2015 USD)
+
+Guam
+  Area: 540.0 km2
+  Population: 168783
+  GDP: 5259729936.3 (2015 USD)
+
+Guatemala
+  Area: 108890.0 km2
+  Population: 16858333
+  GDP: 69560946554.6 (2015 USD)
+
+Guinea
+  Area: 245860.0 km2
+  Population: 13132792
+  GDP: 12922776921.4 (2015 USD)
+
+India
+  Area: 3287259.0 km2
+  Population: 1380004385
+  GDP: 2500132192252.1 (2015 USD)
+
+Indonesia
+  Area: 1916862.2 km2
+  Population: 273523621
+  GDP: 1027602854052.8 (2015 USD)
+
+Italy
+  Area: 302070.0 km2
+  Population: 59554023
+  GDP: 1744731951797.4 (2015 USD)
+
+Jordan
+  Area: 89320.0 km2
+  Population: 10203140
+  GDP: 41108073616.9 (2015 USD)
+
+Maldives
+  Area: 300.0 km2
+  Population: 540542
+  GDP: 3600460152.9 (2015 USD)
+
+Spain
+  Area: 505957.3 km2
+  Population: 47351567
+  GDP: 1180730237585.7 (2015 USD)
+
+Tajikistan
+  Area: 141380.0 km2
+  Population: 9537642
+  GDP: 11436203954.6 (2015 USD)
+
+Turks and Caicos Islands
+  Area: 950.0 km2
+  Population: 38718
+  GDP: 802388551.0 (2015 USD)
+
+United Kingdom
+  Area: 243610.0 km2
+  Population: 67215293
+  GDP: 2891615580463.4 (2015 USD)
+
+Vanuatu
+  Area: 12190.0 km2
+  Population: 307150
+  GDP: 810535805.6 (2015 USD)
+

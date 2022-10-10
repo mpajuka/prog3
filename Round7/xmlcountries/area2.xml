@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="GIN">Guinea</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">245860</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GBR">United Kingdom</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">243610</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="BHR">Bahrain</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">780</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GNQ">Equatorial Guinea</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">28050</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ESP">Spain</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">505957.289</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IND">India</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">3287259</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="MDV">Maldives</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">300</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="VUT">Vanuatu</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">12190</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="COM">Comoros</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">1861</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GTM">Guatemala</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">108890</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUM">Guam</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">540</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ITA">Italy</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">302070</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="TCA">Turks and Caicos Islands</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">950</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GEO">Georgia</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">69700</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="JOR">Jordan</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">89320</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="TJK">Tajikistan</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">141380</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IDN">Indonesia</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">1916862.2</field>
+    </record>
+  </data>
+</Root>

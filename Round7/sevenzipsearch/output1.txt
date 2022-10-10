@@ -1,0 +1,12 @@
+java1.txt
+
+java2.txt
+9: GPL-2.0-only license. ORACLE offers its own HotSpot Java
+
+java3.txt
+3: ORACLE released the last zero-cost public update for the
+
+java4.txt
+1: ORACLE (and others) highly recommend uninstalling outdated
+3: issues in older versions.[22] ORACLE advises its users to
+

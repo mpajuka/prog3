@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="GIN">Guinea</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">12922776921.3699</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GBR">United Kingdom</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">2891615580463.42</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="BHR">Bahrain</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">33206179338.0924</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GNQ">Equatorial Guinea</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">9509201933.42394</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ESP">Spain</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">1180730237585.72</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IND">India</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">2500132192252.07</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="MDV">Maldives</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">3600460152.87054</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="VUT">Vanuatu</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">810535805.63569</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="COM">Comoros</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">1091379941.82261</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GTM">Guatemala</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">69560946554.6216</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUM">Guam</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">5259729936.30573</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="ITA">Italy</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">1744731951797.4</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="TCA">Turks and Caicos Islands</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">802388550.964229</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GEO">Georgia</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">16557390869.4311</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="JOR">Jordan</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">41108073616.9012</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="TJK">Tajikistan</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">11436203954.5867</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IDN">Indonesia</field>
+      <field name="Item" key="NY.GDP.MKTP.KD">GDP (constant 2015 US$)</field>
+      <field name="Value">1027602854052.75</field>
+    </record>
+  </data>
+</Root>

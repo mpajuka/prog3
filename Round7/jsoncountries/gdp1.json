@@ -1,0 +1,243 @@
+{
+	"Root":
+	{
+		"data":
+		{
+			"record": [
+			{
+				"field": [
+				{
+					"value": "Saudi Arabia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "SAU"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "650714601909.915",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Latvia",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LVA"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "29604557971.0212",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Puerto Rico",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "PRI"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "92660076632.5087",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Mozambique",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "MOZ"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "17959222232.3238",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guam",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GUM"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "5259729936.30573",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Guyana",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "GUY"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "7275908034.11422",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Jamaica",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "JAM"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "13440715454.4634",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "Libya",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "LBY"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "27805590095.5454",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			},
+			{
+				"field": [
+				{
+					"value": "India",
+					"attributes":
+					{
+						"name": "Country or Area",
+						"key": "IND"
+					}
+				},
+				{
+					"value": "GDP (constant 2015 US$)",
+					"attributes":
+					{
+						"name": "Item",
+						"key": "NY.GDP.MKTP.KD"
+					}
+				},
+				{
+					"value": "2500132192252.07",
+					"attributes":
+					{
+						"name": "Value"
+					}
+				}]
+			}]
+		}
+	}
+}

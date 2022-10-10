@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root xmlns:wb="http://www.worldbank.org">
+  <data>
+    <record>
+      <field name="Country or Area" key="SAU">Saudi Arabia</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">2149690</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LVA">Latvia</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">64570</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="PRI">Puerto Rico</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">8870</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="MOZ">Mozambique</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">799380</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUM">Guam</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">540</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="GUY">Guyana</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">214970</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="JAM">Jamaica</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">10990</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="LBY">Libya</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">1759540</field>
+    </record>
+    <record>
+      <field name="Country or Area" key="IND">India</field>
+      <field name="Item" key="AG.SRF.TOTL.K2">Surface area (sq. km)</field>
+      <field name="Value">3287259</field>
+    </record>
+  </data>
+</Root>
