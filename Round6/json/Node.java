@@ -29,7 +29,17 @@ public abstract class Node {
     String spaces = "  ";
     if (node.isObject()) {
       ObjectNode objNode = (ObjectNode) node;
-      sb.append("{").append(NL);
+      if (objNode.size() == 0) {
+        sb.append("{}");
+        if (isLast == false) {
+          sb.append(",");
+        }
+        sb.append(NL);
+        return;
+
+      } else {
+        sb.append("{").append(NL);
+      }
       count++;
       int i = 1;
 
