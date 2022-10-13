@@ -6,3 +6,4 @@
 .idea
 **/out
 *.iml
+/Round7/sevenzipsearch/target/
