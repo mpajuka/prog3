@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import org.jdom2.Document;
 import org.jdom2.Element;
 import org.jdom2.JDOMException;
@@ -17,14 +18,14 @@ import org.jdom2.output.XMLOutputter;
 
 public class CountryData extends Country{
     
-    static HashMap<String, HashMap<String, String>> countryMap = 
-            new HashMap<>();
-
+    
     public CountryData(String name, double area, long population, double gdp) {
         super(name, area, population, gdp);
     }
     
-            
+    static HashMap<String, HashMap<String, String>> countryMap = 
+            new HashMap<>();
+     
     public static List<Country> readFromXmls(String areaFile, 
             String populationFile, String gdpFile) 
             throws JDOMException, IOException {
@@ -58,13 +59,15 @@ public class CountryData extends Country{
                         value = field.getText();
                     }
                 }
+                
                 switch (key) {
                     case "Surface area (sq. km)":
                         if (countryMap.get(name) == null) {
                             HashMap<String, String> tmp = new HashMap<>();
                             tmp.put("area", value);
                             countryMap.put(name, tmp);
-                        } else {
+                        } 
+                        else {
                             countryMap.get(name).put("area", value);
                         }
                         break;
@@ -74,7 +77,8 @@ public class CountryData extends Country{
                             HashMap<String, String> tmp = new HashMap<>();
                             tmp.put("population", value);
                             countryMap.put(name, tmp);
-                        } else {
+                        } 
+                        else {
                             countryMap.get(name).put("population", value);
                         }
                         break;
@@ -84,13 +88,31 @@ public class CountryData extends Country{
                             HashMap<String, String> tmp = new HashMap<>();
                             tmp.put("gdp", value);
                             countryMap.put(name, tmp);
-                        } else {
+                        } 
+                        else {
                             countryMap.get(name).put("gdp", value);
                         }
                         break;
                 }
             }
-                    
+        }
+        
+        for (Map.Entry<String, HashMap<String, String>> country : 
+                countryMap.entrySet())
+        {
+            String name = country.getKey();
+            
+            double area = Double.parseDouble(country.getValue().get("area"));
+            
+            long populationCount = Long.parseLong(country.getValue().
+                    get("population"));
+            
+            double GDP = Double.parseDouble(country.getValue().get("gdp"));
+            
+
+            Country newCountry = new Country(name, area, populationCount, GDP);
+            countries.add(newCountry);
+           
         }
         return countries;
     }
