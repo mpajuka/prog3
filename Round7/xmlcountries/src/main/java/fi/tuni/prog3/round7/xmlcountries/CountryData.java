@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+
 import org.jdom2.Document;
 import org.jdom2.Element;
 import org.jdom2.JDOMException;
@@ -16,7 +17,7 @@ import org.jdom2.input.SAXBuilder;
 import org.jdom2.output.Format;
 import org.jdom2.output.XMLOutputter;
 
-public class CountryData extends Country{
+public class CountryData extends Country {
     
     
     public CountryData(String name, double area, long population, double gdp) {
@@ -49,13 +50,14 @@ public class CountryData extends Country{
                 String key = "";
                 
                 for (Element field : fields) {
-                    if (field.getAttributeValue("name") =="Country or Area") {
+                    if ("Country or Area".equals(
+                            field.getAttributeValue("name"))) {
                         name = field.getText();
                     }
-                    if (field.getAttributeValue("name") == "Item") {
+                    if ("Item".equals(field.getAttributeValue("name"))) {
                         key = field.getText();
                     }
-                    if (field.getAttributeValue("name") == "Value") {
+                    if ("Value".equals(field.getAttributeValue("name"))) {
                         value = field.getText();
                     }
                 }
@@ -107,10 +109,10 @@ public class CountryData extends Country{
             long populationCount = Long.parseLong(country.getValue().
                     get("population"));
             
-            double GDP = Double.parseDouble(country.getValue().get("gdp"));
+            double gdp = Double.parseDouble(country.getValue().get("gdp"));
             
 
-            Country newCountry = new Country(name, area, populationCount, GDP);
+            Country newCountry = new Country(name, area, populationCount, gdp);
             countries.add(newCountry);
            
         }
