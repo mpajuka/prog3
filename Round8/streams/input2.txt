@@ -1,0 +1,580 @@
+The Shawshank Redemption;1994;142;Drama;9.3;Frank Darabont
+The Godfather;1972;175;Crime;9.2;Francis Ford Coppola
+The Dark Knight;2008;152;Action;9;Christopher Nolan
+The Godfather: Part II;1974;202;Crime;9;Francis Ford Coppola
+12 Angry Men;1957;96;Crime;9;Sidney Lumet
+The Lord of the Rings: The Return of the King;2003;201;Action;8.9;Peter Jackson
+Pulp Fiction;1994;154;Crime;8.9;Quentin Tarantino
+Schindler's List;1993;195;Biography;8.9;Steven Spielberg
+Inception;2010;148;Action;8.8;Christopher Nolan
+Fight Club;1999;139;Drama;8.8;David Fincher
+The Lord of the Rings: The Fellowship of the Ring;2001;178;Action;8.8;Peter Jackson
+Forrest Gump;1994;142;Drama;8.8;Robert Zemeckis
+The Lord of the Rings: The Two Towers;2002;179;Action;8.7;Peter Jackson
+The Matrix;1999;136;Action;8.7;Lana Wachowski
+Goodfellas;1990;146;Biography;8.7;Martin Scorsese
+Star Wars: Episode V - The Empire Strikes Back;1980;124;Action;8.7;Irvin Kershner
+One Flew Over the Cuckoo's Nest;1975;133;Drama;8.7;Milos Forman
+Hamilton;2020;160;Biography;8.6;Thomas Kail
+Gisaengchung;2019;132;Comedy;8.6;Bong Joon Ho
+Soorarai Pottru;2020;153;Drama;8.6;Sudha Kongara
+Interstellar;2014;169;Adventure;8.6;Christopher Nolan
+Cidade de Deus;2002;130;Crime;8.6;Fernando Meirelles
+Sen to Chihiro no kamikakushi;2001;125;Animation;8.6;Hayao Miyazaki
+Saving Private Ryan;1998;169;Drama;8.6;Steven Spielberg
+The Green Mile;1999;189;Crime;8.6;Frank Darabont
+La vita è bella;1997;116;Comedy;8.6;Roberto Benigni
+Se7en;1995;127;Crime;8.6;David Fincher
+The Silence of the Lambs;1991;118;Crime;8.6;Jonathan Demme
+Star Wars;1977;121;Action;8.6;George Lucas
+Seppuku;1962;133;Action;8.6;Masaki Kobayashi
+Shichinin no samurai;1954;207;Action;8.6;Akira Kurosawa
+It's a Wonderful Life;1946;130;Drama;8.6;Frank Capra
+Joker;2019;122;Crime;8.5;Todd Phillips
+Whiplash;2014;106;Drama;8.5;Damien Chazelle
+The Intouchables;2011;112;Biography;8.5;Olivier Nakache
+The Prestige;2006;130;Drama;8.5;Christopher Nolan
+The Departed;2006;151;Crime;8.5;Martin Scorsese
+The Pianist;2002;150;Biography;8.5;Roman Polanski
+Gladiator;2000;155;Action;8.5;Ridley Scott
+American History X;1998;119;Drama;8.5;Tony Kaye
+The Usual Suspects;1995;106;Crime;8.5;Bryan Singer
+Léon;1994;110;Action;8.5;Luc Besson
+The Lion King;1994;88;Animation;8.5;Roger Allers
+Terminator 2: Judgment Day;1991;137;Action;8.5;James Cameron
+Nuovo Cinema Paradiso;1988;155;Drama;8.5;Giuseppe Tornatore
+Hotaru no haka;1988;89;Animation;8.5;Isao Takahata
+Back to the Future;1985;116;Adventure;8.5;Robert Zemeckis
+Once Upon a Time in the West;1968;165;Western;8.5;Sergio Leone
+Psycho;1960;109;Horror;8.5;Alfred Hitchcock
+Casablanca;1942;102;Drama;8.5;Michael Curtiz
+Modern Times;1936;87;Comedy;8.5;Charles Chaplin
+City Lights;1931;87;Comedy;8.5;Charles Chaplin
+Capharnaüm;2018;126;Drama;8.4;Nadine Labaki
+Ayla: The Daughter of War;2017;125;Biography;8.4;Can Ulkay
+Vikram Vedha;2017;147;Action;8.4;Gayatri
+Kimi no na wa.;2016;106;Animation;8.4;Makoto Shinkai
+Dangal;2016;161;Action;8.4;Nitesh Tiwari
+Spider-Man: Into the Spider-Verse;2018;117;Animation;8.4;Bob Persichetti
+Avengers: Endgame;2019;181;Action;8.4;Anthony Russo
+Avengers: Infinity War;2018;149;Action;8.4;Anthony Russo
+Coco;2017;105;Animation;8.4;Lee Unkrich
+Django Unchained;2012;165;Drama;8.4;Quentin Tarantino
+The Dark Knight Rises;2012;164;Action;8.4;Christopher Nolan
+3 Idiots;2009;170;Comedy;8.4;Rajkumar Hirani
+Taare Zameen Par;2007;165;Drama;8.4;Aamir Khan
+WALL·E;2008;98;Animation;8.4;Andrew Stanton
+The Lives of Others;2006;137;Drama;8.4;Florian Henckel von Donnersmarck
+Oldeuboi;2003;101;Action;8.4;Chan-wook Park
+Memento;2000;113;Mystery;8.4;Christopher Nolan
+Mononoke-hime;1997;134;Animation;8.4;Hayao Miyazaki
+Once Upon a Time in America;1984;229;Crime;8.4;Sergio Leone
+Raiders of the Lost Ark;1981;115;Action;8.4;Steven Spielberg
+The Shining;1980;146;Drama;8.4;Stanley Kubrick
+Apocalypse Now;1979;147;Drama;8.4;Francis Ford Coppola
+Alien;1979;117;Horror;8.4;Ridley Scott
+Anand;1971;122;Drama;8.4;Hrishikesh Mukherjee
+Tengoku to jigoku;1963;143;Crime;8.4;Akira Kurosawa
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb;1964;95;Comedy;8.4;Stanley Kubrick
+Witness for the Prosecution;1957;116;Crime;8.4;Billy Wilder
+Paths of Glory;1957;88;Drama;8.4;Stanley Kubrick
+Rear Window;1954;112;Mystery;8.4;Alfred Hitchcock
+Sunset Blvd.;1950;110;Drama;8.4;Billy Wilder
+The Great Dictator;1940;125;Comedy;8.4;Charles Chaplin
+1917;2019;119;Drama;8.3;Sam Mendes
+Tumbbad;2018;104;Drama;8.3;Rahi Anil Barve
+Andhadhun;2018;139;Crime;8.3;Sriram Raghavan
+Drishyam;2013;160;Crime;8.3;Jeethu Joseph
+Jagten;2012;115;Drama;8.3;Thomas Vinterberg
+Jodaeiye Nader az Simin;2011;123;Drama;8.3;Asghar Farhadi
+Incendies;2010;131;Drama;8.3;Denis Villeneuve
+Miracle in cell NO.7;2019;132;Drama;8.3;Mehmet Ada Öztekin
+Babam ve Oglum;2005;112;Drama;8.3;Çagan Irmak
+Inglourious Basterds;2009;153;Adventure;8.3;Quentin Tarantino
+Eternal Sunshine of the Spotlessd;2004;108;Drama;8.3;Michel Gondry
+Amélie;2001;122;Comedy;8.3;Jean-Pierre Jeunet
+Snatch;2000;104;Comedy;8.3;Guy Ritchie
+Requiem for a Dream;2000;102;Drama;8.3;Darren Aronofsky
+American Beauty;1999;122;Drama;8.3;Sam Mendes
+Good Will Hunting;1997;126;Drama;8.3;Gus Van Sant
+Bacheha-Ye aseman;1997;89;Drama;8.3;Majid Majidi
+Toy Story;1995;81;Animation;8.3;John Lasseter
+Braveheart;1995;178;Biography;8.3;Mel Gibson
+Reservoir Dogs;1992;99;Crime;8.3;Quentin Tarantino
+Full Metal Jacket;1987;116;Drama;8.3;Stanley Kubrick
+Idi i smotri;1985;142;Drama;8.3;Elem Klimov
+Aliens;1986;137;Action;8.3;James Cameron
+Amadeus;1984;160;Biography;8.3;Milos Forman
+Scarface;1983;170;Crime;8.3;Brian De Palma
+Star Wars: Episode VI - Return of the Jedi;1983;131;Action;8.3;Richard Marquand
+Das Boot;1981;149;Adventure;8.3;Wolfgang Petersen
+Taxi Driver;1976;114;Crime;8.3;Martin Scorsese
+The Sting;1973;129;Comedy;8.3;George Roy Hill
+A Clockwork Orange;1971;136;Crime;8.3;Stanley Kubrick
+2001: A Space Odyssey;1968;149;Adventure;8.3;Stanley Kubrick
+Per qualche dollaro in più;1965;132;Western;8.3;Sergio Leone
+Lawrence of Arabia;1962;228;Adventure;8.3;David Lean
+The Apartment;1960;125;Comedy;8.3;Billy Wilder
+North by Northwest;1959;136;Adventure;8.3;Alfred Hitchcock
+Vertigo;1958;128;Mystery;8.3;Alfred Hitchcock
+Singin' in the Rain;1952;103;Comedy;8.3;Stanley Donen
+Ikiru;1952;143;Drama;8.3;Akira Kurosawa
+Ladri di biciclette;1948;89;Drama;8.3;Vittorio De Sica
+Double Indemnity;1944;107;Crime;8.3;Billy Wilder
+Citizen Kane;1941;119;Drama;8.3;Orson Welles
+M - Eine Stadt sucht einen Mörder;1931;117;Crime;8.3;Fritz Lang
+Metropolis;1927;153;Drama;8.3;Fritz Lang
+The Kid;1921;68;Comedy;8.3;Charles Chaplin
+Chhichhore;2019;143;Comedy;8.2;Nitesh Tiwari
+Uri: The Surgical Strike;2018;138;Action;8.2;Aditya Dhar
+K.G.F: Chapter 1;2018;156;Action;8.2;Prashanth Neel
+Green Book;2018;130;Biography;8.2;Peter Farrelly
+Talvar;2015;132;Crime;8.2;Meghna Gulzar
+Baahubali 2: The Conclusion;2017;167;Action;8.2;S.S. Rajamouli
+Klaus;2019;96;Animation;8.2;Sergio Pablos
+Drishyam;2015;163;Crime;8.2;Nishikant Kamat
+Queen;2013;146;Adventure;8.2;Vikas Bahl
+Mandariinid;2013;87;Drama;8.2;Zaza Urushadze
+Bhaag Milkha Bhaag;2013;186;Biography;8.2;Rakeysh Omprakash Mehra
+Gangs of Wasseypur;2012;321;Action;8.2;Anurag Kashyap
+Udaan;2010;134;Drama;8.2;Vikramaditya Motwane
+Paan Singh Tomar;2012;135;Action;8.2;Tigmanshu Dhulia
+El secreto de sus ojos;2009;129;Drama;8.2;Juan José Campanella
+Warrior;2011;140;Action;8.2;Gavin O'Connor
+Shutter Island;2010;138;Mystery;8.2;Martin Scorsese
+Up;2009;96;Animation;8.2;Pete Docter
+The Wolf of Wall Street;2013;180;Biography;8.2;Martin Scorsese
+Chak De! India;2007;153;Drama;8.2;Shimit Amin
+There Will Be Blood;2007;158;Drama;8.2;Paul Thomas Anderson
+Pan's Labyrinth;2006;118;Drama;8.2;Guillermo del Toro
+Toy Story 3;2010;103;Animation;8.2;Lee Unkrich
+V for Vendetta;2005;132;Action;8.2;James McTeigue
+Rang De Basanti;2006;167;Comedy;8.2;Rakeysh Omprakash Mehra
+Black;2005;122;Drama;8.2;Sanjay Leela Bhansali
+Batman Begins;2005;140;Action;8.2;Christopher Nolan
+Der Untergang;2004;156;Biography;8.2;Oliver Hirschbiegel
+Hauru no ugoku shiro;2004;119;Animation;8.2;Hayao Miyazaki
+A Beautifuld;2001;135;Biography;8.2;Ron Howard
+Hera Pheri;2000;156;Action;8.2;Priyadarshan
+L.A. Confidential;1997;138;Crime;8.2;Curtis Hanson
+Eskiya;1996;128;Crime;8.2;Yavuz Turgul
+Heat;1995;170;Crime;8.2;Michael Mann
+Casino;1995;178;Crime;8.2;Martin Scorsese
+Andaz Apna Apna;1994;160;Action;8.2;Rajkumar Santoshi
+Unforgiven;1992;130;Drama;8.2;Clint Eastwood
+Indiana Jones and the Last Crusade;1989;127;Action;8.2;Steven Spielberg
+Dom za vesanje;1988;142;Comedy;8.2;Emir Kusturica
+Tonari no Totoro;1988;86;Animation;8.2;Hayao Miyazaki
+Die Hard;1988;132;Action;8.2;John McTiernan
+Ran;1985;162;Action;8.2;Akira Kurosawa
+Raging Bull;1980;129;Biography;8.2;Martin Scorsese
+Stalker;1979;162;Drama;8.2;Andrei Tarkovsky
+Höstsonaten;1978;99;Drama;8.2;Ingmar Bergman
+The Message;1976;177;Biography;8.2;Moustapha Akkad
+Sholay;1975;204;Action;8.2;Ramesh Sippy
+Monty Python and the Holy Grail;1975;91;Adventure;8.2;Terry Gilliam
+The Great Escape;1963;172;Adventure;8.2;John Sturges
+To Kill a Mockingbird;1962;129;Crime;8.2;Robert Mulligan
+Yôjinbô;1961;110;Action;8.2;Akira Kurosawa
+Judgment at Nuremberg;1961;179;Drama;8.2;Stanley Kramer
+Some Like It Hot;1959;121;Comedy;8.2;Billy Wilder
+Smultronstället;1957;91;Drama;8.2;Ingmar Bergman
+Det sjunde inseglet;1957;96;Drama;8.2;Ingmar Bergman
+Du rififi chez les hommes;1955;118;Crime;8.2;Jules Dassin
+Dial M for Murder;1954;105;Crime;8.2;Alfred Hitchcock
+Tôkyô monogatari;1953;136;Drama;8.2;Yasujirô Ozu
+Rashômon;1950;88;Crime;8.2;Akira Kurosawa
+All About Eve;1950;138;Drama;8.2;Joseph L. Mankiewicz
+The Treasure of the Sierra Madre;1948;126;Adventure;8.2;John Huston
+To Be or Not to Be;1942;99;Comedy;8.2;Ernst Lubitsch
+The Gold Rush;1925;95;Adventure;8.2;Charles Chaplin
+Sherlock Jr.;1924;45;Action;8.2;Buster Keaton
+Portrait de la jeune fille en feu;2019;122;Drama;8.1;Céline Sciamma
+Pink;2016;136;Drama;8.1;Aniruddha Roy Chowdhury
+Koe no katachi;2016;130;Animation;8.1;Naoko Yamada
+Contratiempo;2016;106;Crime;8.1;Oriol Paulo
+Ah-ga-ssi;2016;145;Drama;8.1;Chan-wook Park
+Mommy;2014;139;Drama;8.1;Xavier Dolan
+Haider;2014;160;Action;8.1;Vishal Bhardwaj
+Logan;2017;137;Action;8.1;James Mangold
+Room;2015;118;Drama;8.1;Lenny Abrahamson
+Relatos salvajes;2014;122;Comedy;8.1;Damián Szifron
+Soul;2020;100;Animation;8.1;Pete Docter
+Kis Uykusu;2014;196;Drama;8.1;Nuri Bilge Ceylan
+PK;2014;153;Comedy;8.1;Rajkumar Hirani
+OMG: Oh My God!;2012;125;Comedy;8.1;Umesh Shukla
+The Grand Budapest Hotel;2014;99;Adventure;8.1;Wes Anderson
+Gone Girl;2014;149;Drama;8.1;David Fincher
+Ôkami kodomo no Ame to Yuki;2012;117;Animation;8.1;Mamoru Hosoda
+Hacksaw Ridge;2016;139;Biography;8.1;Mel Gibson
+Inside Out;2015;95;Animation;8.1;Pete Docter
+Barfi!;2012;151;Comedy;8.1;Anurag Basu
+12 Years a Slave;2013;134;Biography;8.1;Steve McQueen
+Rush;2013;123;Action;8.1;Ron Howard
+Ford v Ferrari;2019;152;Action;8.1;James Mangold
+Spotlight;2015;129;Biography;8.1;Tom McCarthy
+Song of the Sea;2014;93;Animation;8.1;Tomm Moore
+Kahaani;2012;122;Mystery;8.1;Sujoy Ghosh
+Zindagi Na Milegi Dobara;2011;155;Comedy;8.1;Zoya Akhtar
+Prisoners;2013;153;Crime;8.1;Denis Villeneuve
+Mad Max: Fury Road;2015;120;Action;8.1;George Miller
+A Wednesday;2008;104;Action;8.1;Neeraj Pandey
+Gran Torino;2008;116;Drama;8.1;Clint Eastwood
+Harry Potter and the Deathly Hallows: Part 2;2011;130;Adventure;8.1;David Yates
+Okuribito;2008;130;Drama;8.1;Yôjirô Takita
+Hachi: A Dog's Tale;2009;93;Biography;8.1;Lasse Hallström
+Mary and Max;2009;92;Animation;8.1;Adam Elliot
+How to Train Your Dragon;2010;98;Animation;8.1;Dean DeBlois
+Into the Wild;2007;148;Adventure;8.1;Sean Penn
+No Country for Old Men;2007;122;Crime;8.1;Ethan Coen
+Lage Raho Munna Bhai;2006;144;Comedy;8.1;Rajkumar Hirani
+Million Dollar Baby;2004;132;Drama;8.1;Clint Eastwood
+Hotel Rwanda;2004;121;Biography;8.1;Terry George
+Taegukgi hwinalrimyeo;2004;140;Action;8.1;Je-kyu Kang
+Before Sunset;2004;80;Drama;8.1;Richard Linklater
+Munna Bhai M.B.B.S.;2003;156;Comedy;8.1;Rajkumar Hirani
+Salinui chueok;2003;131;Crime;8.1;Bong Joon Ho
+Dil Chahta Hai;2001;183;Comedy;8.1;Farhan Akhtar
+Kill Bill: Vol. 1;2003;111;Action;8.1;Quentin Tarantino
+Finding Nemo;2003;100;Animation;8.1;Andrew Stanton
+Catch Me If You Can;2002;141;Biography;8.1;Steven Spielberg
+Amores perros;2000;154;Drama;8.1;Alejandro G. Iñárritu
+Lagaan: Once Upon a Time in India;2001;224;Adventure;8.1;Ashutosh Gowariker
+The Sixth Sense;1999;107;Drama;8.1;M. Night Shyamalan
+La leggenda del pianista sull'oceano;1998;169;Drama;8.1;Giuseppe Tornatore
+The Truman Show;1998;103;Comedy;8.1;Peter Weir
+The Big Lebowski;1998;117;Comedy;8.1;Joel Coen
+Fa yeung nin wah;2000;98;Drama;8.1;Kar-Wai Wong
+Trainspotting;1996;93;Drama;8.1;Danny Boyle
+Fargo;1996;98;Crime;8.1;Joel Coen
+Underground;1995;170;Comedy;8.1;Emir Kusturica
+La haine;1995;98;Crime;8.1;Mathieu Kassovitz
+Dilwale Dulhania Le Jayenge;1995;189;Drama;8.1;Aditya Chopra
+Before Sunrise;1995;101;Drama;8.1;Richard Linklater
+Trois couleurs: Rouge;1994;99;Drama;8.1;Krzysztof Kieslowski
+Chung Hing sam lam;1994;102;Comedy;8.1;Kar-Wai Wong
+Jurassic Park;1993;127;Action;8.1;Steven Spielberg
+In the Name of the Father;1993;133;Biography;8.1;Jim Sheridan
+Ba wang bie ji;1993;171;Drama;8.1;Kaige Chen
+Dà hóng denglong gaogao guà;1991;125;Drama;8.1;Yimou Zhang
+Dead Poets Society;1989;128;Comedy;8.1;Peter Weir
+Stand by Me;1986;89;Adventure;8.1;Rob Reiner
+Platoon;1986;120;Drama;8.1;Oliver Stone
+Kaze no tani no Naushika;1984;117;Animation;8.1;Hayao Miyazaki
+The Thing;1982;109;Horror;8.1;John Carpenter
+Pink Floyd: The Wall;1982;95;Drama;8.1;Alan Parker
+Fitzcarraldo;1982;158;Adventure;8.1;Werner Herzog
+Fanny och Alexander;1982;188;Drama;8.1;Ingmar Bergman
+Blade Runner;1982;117;Action;8.1;Ridley Scott
+The Elephant Man;1980;124;Biography;8.1;David Lynch
+Life of Brian;1979;94;Comedy;8.1;Terry Jones
+The Deer Hunter;1978;183;Drama;8.1;Michael Cimino
+Rocky;1976;120;Drama;8.1;John G. Avildsen
+Network;1976;121;Drama;8.1;Sidney Lumet
+Barry Lyndon;1975;185;Adventure;8.1;Stanley Kubrick
+Zerkalo;1975;107;Biography;8.1;Andrei Tarkovsky
+Chinatown;1974;130;Drama;8.1;Roman Polanski
+Paper Moon;1973;102;Comedy;8.1;Peter Bogdanovich
+Viskningar och rop;1972;91;Drama;8.1;Ingmar Bergman
+Solaris;1972;167;Drama;8.1;Andrei Tarkovsky
+Le samouraï;1967;105;Crime;8.1;Jean-Pierre Melville
+Cool Hand Luke;1967;127;Crime;8.1;Stuart Rosenberg
+Persona;1966;85;Drama;8.1;Ingmar Bergman
+Andrei Rublev;1966;205;Biography;8.1;Andrei Tarkovsky
+La battaglia di Algeri;1966;121;Drama;8.1;Gillo Pontecorvo
+El ángel exterminador;1962;95;Drama;8.1;Luis Buñuel
+What Ever Happened to Baby Jane?;1962;134;Drama;8.1;Robert Aldrich
+Sanjuro;1962;96;Action;8.1;Akira Kurosawa
+The Man Who Shot Liberty Valance;1962;123;Drama;8.1;John Ford
+Ivanovo detstvo;1962;95;Drama;8.1;Andrei Tarkovsky
+Jungfrukällan;1960;89;Drama;8.1;Ingmar Bergman
+Inherit the Wind;1960;128;Biography;8.1;Stanley Kramer
+Les quatre cents coups;1959;99;Crime;8.1;François Truffaut
+Ben-Hur;1959;212;Adventure;8.1;William Wyler
+Kakushi-toride no san-akunin;1958;139;Adventure;8.1;Akira Kurosawa
+Le notti di Cabiria;1957;110;Drama;8.1;Federico Fellini
+Kumonosu-jô;1957;110;Drama;8.1;Akira Kurosawa
+The Bridge on the River Kwai;1957;161;Adventure;8.1;David Lean
+On the Waterfront;1954;108;Crime;8.1;Elia Kazan
+Le salaire de la peur;1953;131;Adventure;8.1;Henri-Georges Clouzot
+Ace in the Hole;1951;111;Drama;8.1;Billy Wilder
+White Heat;1949;114;Action;8.1;Raoul Walsh
+The Third Man;1949;104;Film-Noir;8.1;Carol Reed
+The Red Shoes;1948;135;Drama;8.1;Michael Powell
+The Shop Around the Corner;1940;99;Comedy;8.1;Ernst Lubitsch
+Rebecca;1940;130;Drama;8.1;Alfred Hitchcock
+Mr. Smith Goes to Washington;1939;129;Comedy;8.1;Frank Capra
+Gone with the Wind;1939;238;Drama;8.1;Victor Fleming
+La Grande Illusion;1937;113;Drama;8.1;Jean Renoir
+It Happened One Night;1934;105;Comedy;8.1;Frank Capra
+La passion de Jeanne d'Arc;1928;110;Biography;8.1;Carl Theodor Dreyer
+The Circus;1928;72;Comedy;8.1;Charles Chaplin
+Sunrise: A Song of Two Humans;1927;94;Drama;8.1;F.W. Murnau
+The General;1926;67;Action;8.1;Clyde Bruckman
+Das Cabinet des Dr. Caligari;1920;76;Fantasy;8.1;Robert Wiene
+Badhaai ho;2018;124;Comedy;8;Amit Ravindernath Sharma
+Togo;2019;113;Adventure;8;Ericson Core
+Airlift;2016;130;Drama;8;Raja Menon
+Bajrangi Bhaijaan;2015;163;Action;8;Kabir Khan
+Baby;2015;159;Action;8;Neeraj Pandey
+La La Land;2016;128;Comedy;8;Damien Chazelle
+Lion;2016;118;Biography;8;Garth Davis
+The Martian;2015;144;Adventure;8;Ridley Scott
+Zootopia;2016;108;Animation;8;Byron Howard
+Bãhubali: The Beginning;2015;159;Action;8;S.S. Rajamouli
+Kaguyahime no monogatari;2013;137;Animation;8;Isao Takahata
+Wonder;2017;113;Drama;8;Stephen Chbosky
+Gully Boy;2019;154;Drama;8;Zoya Akhtar
+Special Chabbis;2013;144;Crime;8;Neeraj Pandey
+Short Term 12;2013;96;Drama;8;Destin Daniel Cretton
+Serbuan maut 2: Berandal;2014;150;Action;8;Gareth Evans
+The Imitation Game;2014;114;Biography;8;Morten Tyldum
+Guardians of the Galaxy;2014;121;Action;8;James Gunn
+Blade Runner 2049;2017;164;Action;8;Denis Villeneuve
+Her;2013;126;Drama;8;Spike Jonze
+Bohemian Rhapsody;2018;134;Biography;8;Bryan Singer
+The Revenant;2015;156;Action;8;Alejandro G. Iñárritu
+The Perks of Being a Wallflower;2012;103;Drama;8;Stephen Chbosky
+Tropa de Elite 2: O Inimigo Agora é Outro;2010;115;Action;8;José Padilha
+The King's Speech;2010;118;Biography;8;Tom Hooper
+The Help;2011;146;Drama;8;Tate Taylor
+Deadpool;2016;108;Action;8;Tim Miller
+Darbareye Elly;2009;119;Drama;8;Asghar Farhadi
+Dev.D;2009;144;Drama;8;Anurag Kashyap
+Yip Man;2008;106;Action;8;Wilson Yip
+My Name Is Khan;2010;165;Drama;8;Karan Johar
+Nefes: Vatan Sagolsun;2009;128;Action;8;Levent Semerci
+Slumdog Millionaire;2008;120;Drama;8;Danny Boyle
+Black Swan;2010;108;Drama;8;Darren Aronofsky
+Tropa de Elite;2007;115;Action;8;José Padilha
+The Avengers;2012;143;Action;8;Joss Whedon
+Persepolis;2007;96;Animation;8;Vincent Paronnaud
+Dallas Buyers Club;2013;117;Biography;8;Jean-Marc Vallée
+The Pursuit of Happyness;2006;117;Biography;8;Gabriele Muccino
+Blood Diamond;2006;143;Adventure;8;Edward Zwick
+The Bourne Ultimatum;2007;115;Action;8;Paul Greengrass
+Bin-jip;2004;88;Crime;8;Ki-duk Kim
+Sin City;2005;124;Crime;8;Frank Miller
+Le scaphandre et le papillon;2007;112;Biography;8;Julian Schnabel
+G.O.R.A.;2004;127;Adventure;8;Ömer Faruk Sorak
+Ratatouille;2007;111;Animation;8;Brad Bird
+Casino Royale;2006;144;Action;8;Martin Campbell
+Kill Bill: Vol. 2;2004;137;Action;8;Quentin Tarantino
+Vozvrashchenie;2003;110;Drama;8;Andrey Zvyagintsev
+Bom Yeoareum Gaeul Gyeoul Geurigo Bom;2003;103;Drama;8;Ki-duk Kim
+Mar adentro;2014;126;Biography;8;Alejandro Amenábar
+Cinderella Man;2005;144;Biography;8;Ron Howard
+Kal Ho Naa Ho;2003;186;Comedy;8;Nikkhil Advani
+Mou gaan dou;2002;101;Action;8;Andrew Lau
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;143;Action;8;Gore Verbinski
+Big Fish;2003;125;Adventure;8;Tim Burton
+The Incredibles;2004;115;Animation;8;Brad Bird
+Yeopgijeogin geunyeo;2001;137;Comedy;8;Jae-young Kwak
+Dogville;2003;178;Crime;8;Lars von Trier
+Vizontele;2001;110;Comedy;8;Yilmaz Erdogan
+Donnie Darko;2001;113;Drama;8;Richard Kelly
+Magnolia;1999;188;Drama;8;Paul Thomas Anderson
+Dancer in the Dark;2000;140;Crime;8;Lars von Trier
+The Straight Story;1999;112;Biography;8;David Lynch
+Pâfekuto burû;1997;81;Animation;8;Satoshi Kon
+Festen;1998;105;Drama;8;Thomas Vinterberg
+Central do Brasil;1998;110;Drama;8;Walter Salles
+The Iron Giant;1999;86;Animation;8;Brad Bird
+Knockin' on Heaven's Door;1997;87;Action;8;Thomas Jahn
+Sling Blade;1996;135;Drama;8;Billy Bob Thornton
+Secrets & Lies;1996;136;Comedy;8;Mike Leigh
+Twelve Monkeys;1995;129;Mystery;8;Terry Gilliam
+Kôkaku Kidôtai;1995;83;Animation;8;Mamoru Oshii
+The Nightmare Before Christmas;1993;76;Animation;8;Henry Selick
+Groundhog Day;1993;101;Comedy;8;Harold Ramis
+Bound by Honor;1993;180;Crime;8;Taylor Hackford
+Scent of a Woman;1992;156;Drama;8;Martin Brest
+Aladdin;1992;90;Animation;8;Ron Clements
+JFK;1991;189;Drama;8;Oliver Stone
+Beauty and the Beast;1991;84;Animation;8;Gary Trousdale
+Dances with Wolves;1990;181;Adventure;8;Kevin Costner
+Do the Right Thing;1989;120;Comedy;8;Spike Lee
+Rain Man;1988;133;Drama;8;Barry Levinson
+Akira;1988;124;Animation;8;Katsuhiro Ôtomo
+The Princess Bride;1987;98;Adventure;8;Rob Reiner
+Der Himmel über Berlin;1987;128;Drama;8;Wim Wenders
+Au revoir les enfants;1987;104;Drama;8;Louis Malle
+Tenkû no shiro Rapyuta;1986;125;Animation;8;Hayao Miyazaki
+The Terminator;1984;107;Action;8;James Cameron
+Gandhi;1982;191;Biography;8;Richard Attenborough
+Kagemusha;1980;180;Drama;8;Akira Kurosawa
+Being There;1979;130;Comedy;8;Hal Ashby
+Annie Hall;1977;93;Comedy;8;Woody Allen
+Jaws;1975;124;Adventure;8;Steven Spielberg
+Dog Day Afternoon;1975;125;Biography;8;Sidney Lumet
+Young Frankenstein;1974;106;Comedy;8;Mel Brooks
+Papillon;1973;151;Biography;8;Franklin J. Schaffner
+The Exorcist;1973;122;Horror;8;William Friedkin
+Sleuth;1972;138;Mystery;8;Joseph L. Mankiewicz
+The Last Picture Show;1971;118;Drama;8;Peter Bogdanovich
+Fiddler on the Roof;1971;181;Drama;8;Norman Jewison
+Il conformista;1970;113;Drama;8;Bernardo Bertolucci
+Butch Cassidy and the Sundance Kid;1969;110;Biography;8;George Roy Hill
+Rosemary's Baby;1968;137;Drama;8;Roman Polanski
+Planet of the Apes;1968;112;Adventure;8;Franklin J. Schaffner
+The Graduate;1967;106;Comedy;8;Mike Nichols
+Who's Afraid of Virginia Woolf?;1966;131;Drama;8;Mike Nichols
+The Sound of Music;1965;172;Biography;8;Robert Wise
+Doctor Zhivago;1965;197;Drama;8;David Lean
+Per un pugno di dollari;1964;99;Action;8;Sergio Leone
+8½;1963;138;Drama;8;Federico Fellini
+Vivre sa vie: Film en douze tableaux;1962;80;Drama;8;Jean-Luc Godard
+The Hustler;1961;134;Drama;8;Robert Rossen
+La dolce vita;1960;174;Comedy;8;Federico Fellini
+Rio Bravo;1959;141;Action;8;Howard Hawks
+Anatomy of a Murder;1959;161;Crime;8;Otto Preminger
+Touch of Evil;1958;95;Crime;8;Orson Welles
+Cat on a Hot Tin Roof;1958;108;Drama;8;Richard Brooks
+Sweet Smell of Success;1957;96;Drama;8;Alexander Mackendrick
+The Killing;1956;84;Crime;8;Stanley Kubrick
+The Night of the Hunter;1955;92;Crime;8;Charles Laughton
+La Strada;1954;108;Drama;8;Federico Fellini
+Les diaboliques;1955;117;Crime;8;Henri-Georges Clouzot
+Stalag 17;1953;120;Comedy;8;Billy Wilder
+Roman Holiday;1953;118;Comedy;8;William Wyler
+A Streetcar Named Desire;1951;122;Drama;8;Elia Kazan
+In a Lonely Place;1950;94;Drama;8;Nicholas Ray
+Kind Hearts and Coronets;1949;106;Comedy;8;Robert Hamer
+Rope;1948;80;Crime;8;Alfred Hitchcock
+Out of the Past;1947;97;Crime;8;Jacques Tourneur
+Brief Encounter;1945;86;Drama;8;David Lean
+Laura;1944;88;Drama;8;Otto Preminger
+The Best Years of Our Lives;1946;170;Drama;8;William Wyler
+Arsenic and Old Lace;1942;118;Comedy;8;Frank Capra
+The Maltese Falcon;1941;100;Film-Noir;8;John Huston
+The Grapes of Wrath;1940;129;Drama;8;John Ford
+The Wizard of Oz;1939;102;Adventure;8;Victor Fleming
+La règle du jeu;1939;110;Comedy;8;Jean Renoir
+The Thin Man;1934;91;Comedy;8;W.S. Van Dyke
+All Quiet on the Western Front;1930;152;Drama;8;Lewis Milestone
+Bronenosets Potemkin;1925;75;Drama;8;Sergei M. Eisenstein
+Knives Out;2019;130;Comedy;7.9;Rian Johnson
+Dil Bechara;2020;101;Comedy;7.9;Mukesh Chhabra
+Manbiki kazoku;2018;121;Crime;7.9;Hirokazu Koreeda
+Marriage Story;2019;137;Comedy;7.9;Noah Baumbach
+Call Me by Your Name;2017;132;Drama;7.9;Luca Guadagnino
+Isle of Dogs;2018;101;Animation;7.9;Wes Anderson
+Hunt for the Wilderpeople;2016;101;Adventure;7.9;Taika Waititi
+Captain Fantastic;2016;118;Comedy;7.9;Matt Ross
+Sing Street;2016;106;Comedy;7.9;John Carney
+Thor: Ragnarok;2017;130;Action;7.9;Taika Waititi
+Nightcrawler;2014;117;Crime;7.9;Dan Gilroy
+Jojo Rabbit;2019;108;Comedy;7.9;Taika Waititi
+Arrival;2016;116;Drama;7.9;Denis Villeneuve
+Star Wars: Episode VII - The Force Awakens;2015;138;Action;7.9;J.J. Abrams
+Before Midnight;2013;109;Drama;7.9;Richard Linklater
+X-Men: Days of Future Past;2014;132;Action;7.9;Bryan Singer
+Bir Zamanlar Anadolu'da;2011;157;Crime;7.9;Nuri Bilge Ceylan
+The Artist;2011;100;Comedy;7.9;Michel Hazanavicius
+Edge of Tomorrow;2014;113;Action;7.9;Doug Liman
+Amour;2012;127;Drama;7.9;Michael Haneke
+The Irishman;2019;209;Biography;7.9;Martin Scorsese
+Un prophète;2009;155;Crime;7.9;Jacques Audiard
+Moon;2009;97;Drama;7.9;Duncan Jones
+Låt den rätte komma in;2008;114;Crime;7.9;Tomas Alfredson
+District 9;2009;112;Action;7.9;Neill Blomkamp
+The Wrestler;2008;109;Drama;7.9;Darren Aronofsky
+Jab We Met;2007;138;Comedy;7.9;Imtiaz Ali
+Boyhood;2014;165;Drama;7.9;Richard Linklater
+Star Trek;2009;127;Action;7.9;J.J. Abrams
+In Bruges;2008;107;Comedy;7.9;Martin McDonagh
+The Man from Earth;2007;87;Drama;7.9;Richard Schenkman
+Letters from Iwo Jima;2006;141;Action;7.9;Clint Eastwood
+The Fall;2006;117;Adventure;7.9;Tarsem Singh
+Life of Pi;2012;127;Adventure;7.9;Ang Lee
+Fantastic Mr. Fox;2009;87;Animation;7.9;Wes Anderson
+C.R.A.Z.Y.;2005;129;Comedy;7.9;Jean-Marc Vallée
+Les choristes;2004;97;Drama;7.9;Christophe Barratier
+Iron Man;2008;126;Action;7.9;Jon Favreau
+Shaun of the Dead;2004;99;Comedy;7.9;Edgar Wright
+Gegen die Wand;2004;121;Drama;7.9;Fatih Akin
+Mystic River;2003;138;Crime;7.9;Clint Eastwood
+Harry Potter and the Prisoner of Azkaban;2004;142;Adventure;7.9;Alfonso Cuarón
+Ying xiong;2002;120;Action;7.9;Yimou Zhang
+Hable con ella;2002;112;Drama;7.9;Pedro Almodóvar
+No Man's Land;2001;98;Comedy;7.9;Danis Tanovic
+Cowboy Bebop: Tengoku no tobira;2001;115;Animation;7.9;Shin'ichirô Watanabe
+The Bourne Identity;2002;119;Action;7.9;Doug Liman
+Nueve reinas;2000;114;Crime;7.9;Fabián Bielinsky
+Children of Men;2006;109;Adventure;7.9;Alfonso Cuarón
+Almost Famous;2000;122;Adventure;7.9;Cameron Crowe
+Mulholland Dr.;2001;147;Drama;7.9;David Lynch
+Toy Story 2;1999;92;Animation;7.9;John Lasseter
+Boogie Nights;1997;155;Drama;7.9;Paul Thomas Anderson
+Mimi wo sumaseba;1995;111;Animation;7.9;Yoshifumi Kondô
+Once Were Warriors;1994;102;Crime;7.9;Lee Tamahori
+True Romance;1993;119;Crime;7.9;Tony Scott
+Trois couleurs: Bleu;1993;94;Drama;7.9;Krzysztof Kieslowski
+Jûbê ninpûchô;1993;94;Animation;7.9;Yoshiaki Kawajiri
+Carlito's Way;1993;144;Crime;7.9;Brian De Palma
+Edward Scissorhands;1990;105;Drama;7.9;Tim Burton
+My Left Foot: The Story of Christy Brown;1989;103;Biography;7.9;Jim Sheridan
+Crimes and Misdemeanors;1989;104;Comedy;7.9;Woody Allen
+The Untouchables;1987;119;Crime;7.9;Brian De Palma
+Hannah and Her Sisters;1986;107;Comedy;7.9;Woody Allen
+Brazil;1985;132;Drama;7.9;Terry Gilliam
+This Is Spinal Tap;1984;82;Comedy;7.9;Rob Reiner
+A Christmas Story;1983;93;Comedy;7.9;Bob Clark
+The Blues Brothers;1980;133;Action;7.9;John Landis
+Manhattan;1979;96;Comedy;7.9;Woody Allen
+All That Jazz;1979;123;Drama;7.9;Bob Fosse
+Dawn of the Dead;1978;127;Action;7.9;George A. Romero
+All the President's Men;1976;138;Biography;7.9;Alan J. Pakula
+La montaña sagrada;1973;114;Adventure;7.9;Alejandro Jodorowsky
+Amarcord;1973;123;Comedy;7.9;Federico Fellini
+Le charme discret de la bourgeoisie;1972;102;Comedy;7.9;Luis Buñuel
+Harold and Maude;1971;91;Comedy;7.9;Hal Ashby
+Patton;1970;172;Biography;7.9;Franklin J. Schaffner
+The Wild Bunch;1969;145;Action;7.9;Sam Peckinpah
+Night of the Living Dead;1968;96;Horror;7.9;George A. Romero
+The Lion in Winter;1968;134;Biography;7.9;Anthony Harvey
+In the Heat of the Night;1967;110;Crime;7.9;Norman Jewison
+Charade;1963;113;Comedy;7.9;Stanley Donen
+The Manchurian Candidate;1962;126;Drama;7.9;John Frankenheimer
+Spartacus;1960;197;Adventure;7.9;Stanley Kubrick
+L'avventura;1960;144;Drama;7.9;Michelangelo Antonioni
+Hiroshima mon amour;1959;90;Drama;7.9;Alain Resnais
+The Ten Commandments;1956;220;Adventure;7.9;Cecil B. DeMille
+The Searchers;1956;119;Adventure;7.9;John Ford
+East of Eden;1955;118;Drama;7.9;Elia Kazan
+High Noon;1952;85;Drama;7.9;Fred Zinnemann
+Strangers on a Train;1951;101;Crime;7.9;Alfred Hitchcock
+Harvey;1950;104;Comedy;7.9;Henry Koster
+Miracle on 34th Street;1947;96;Comedy;7.9;George Seaton
+Notorious;1946;102;Drama;7.9;Alfred Hitchcock
+The Big Sleep;1946;114;Crime;7.9;Howard Hawks
+The Lost Weekend;1945;101;Drama;7.9;Billy Wilder
+The Philadelphia Story;1940;112;Comedy;7.9;George Cukor
+His Girl Friday;1940;92;Comedy;7.9;Howard Hawks
+The Adventures of Robin Hood;1938;102;Action;7.9;Michael Curtiz
+A Night at the Opera;1935;96;Comedy;7.9;Sam Wood
+King Kong;1933;100;Adventure;7.9;Merian C. Cooper
+Freaks;1932;64;Drama;7.9;Tod Browning
+Nosferatu;1922;94;Fantasy;7.9;F.W. Murnau
+The Gentlemen;2019;113;Action;7.8;Guy Ritchie
+Raazi;2018;138;Action;7.8;Meghna Gulzar
+Sound of Metal;2019;120;Drama;7.8;Darius Marder
+Forushande;2016;124;Drama;7.8;Asghar Farhadi
+Dunkirk;2017;106;Action;7.8;Christopher Nolan
+Perfetti sconosciuti;2016;96;Comedy;7.8;Paolo Genovese
+Hidden Figures;2016;127;Biography;7.8;Theodore Melfi
+Paddington 2;2017;103;Adventure;7.8;Paul King
+Udta Punjab;2016;148;Action;7.8;Abhishek Chaubey
+Kubo and the Two Strings;2016;101;Animation;7.8;Travis Knight
+M.S. Dhoni: The Untold Story;2016;184;Biography;7.8;Neeraj Pandey
+Manchester by the Sea;2016;137;Drama;7.8;Kenneth Lonergan
+Under sandet;2015;100;Drama;7.8;Martin Zandvliet
+Rogue One;2016;133;Action;7.8;Gareth Edwards
+Captain America: Civil War;2016;147;Action;7.8;Anthony Russo
+The Hateful Eight;2015;168;Crime;7.8;Quentin Tarantino
+Little Women;2019;135;Drama;7.8;Greta Gerwig
+Loving Vincent;2017;94;Animation;7.8;Dorota Kobiela
+Pride;2014;119;Biography;7.8;Matthew Warchus
+Le passé;2013;130;Drama;7.8;Asghar Farhadi
+La grande bellezza;2013;141;Drama;7.8;Paolo Sorrentino
+The Lunchbox;2013;104;Drama;7.8;Ritesh Batra
