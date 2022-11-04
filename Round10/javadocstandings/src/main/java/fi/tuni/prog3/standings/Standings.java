@@ -232,7 +232,8 @@ public class Standings {
     }
 
     /**
-     * Returns list of teams sorted based on the predetermined rules
+     * Returns a list of the teams in the same order as they would appear in a 
+     * standings table.
      * @return a list sorted based on the rules
      */
     public List<Team> getTeams() {
