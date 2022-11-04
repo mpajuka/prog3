@@ -127,51 +127,41 @@ public class Standings {
             return playedGames;
         }
     }
-
     /**
-     * Prints a formatted standings table to the provided output stream.
-     * @param out the output stream to use when printing the standings table.
+     * Reads game data from the specified file and updates the team
+     * statistics and standings accordingly.
+     *
+     * <p>The match data file is expected to contain lines of form
+     * "teamNameA\tgoalsA-goalsB\tteamNameB". Note that the '\t' are tabulator 
+     * characters.</p>
+     *
+     * <p>E.g. the line "Iceland\t3-2\tFinland" would describe a match between
+     * Iceland and Finland where Iceland scored 3 and Finland 2 goals.</p>
+     *
+     * @param filename      the name of the game data file to read.
+     * @throws IOException  if there is some kind of an IO error (e.g. if the 
+     * specified file does not exist).
      */
-    public void printStandings(PrintStream out) {
-        ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
-        int teamNameLength = 0;
+    public final void readMatchData(String filename) throws IOException{
+        try(var file = new BufferedReader(new FileReader(filename))) {
+            String line;
+            while((line = file.readLine()) != null) {
+                String[] parts = line.split("\\t");
+                String teamA = parts[0];
+                String teamB = parts[2];
 
-        for (String team : teamNames) {
-            if (team.length() > teamNameLength) {
-                teamNameLength = team.length();
+                String[] scores = parts[1].split("-");
+                String goalsA = scores[0];
+                String goalsB = scores[1];
+
+                int tgoalsA = Integer.parseInt(goalsA);
+                int tgoalsB = Integer.parseInt(goalsB);
+
+                addMatchResult(teamA, tgoalsA, tgoalsB, teamB);
             }
         }
-
-
-        ArrayList<Team> teamSorted = new ArrayList<>(teamMap.values());
-
-        Comparator<Team> sortByName = (a, b) -> b.name.compareTo(a.name);
-        teamSorted.sort(sortByName);
-
-        Comparator<Team> sortByGoals = (a, b) -> b.scored - a.scored;
-        teamSorted.sort(sortByGoals);
-
-        Comparator<Team> sortByDiff = (a, b) -> (b.scored-b.allowed) - (a.scored-a.allowed);
-        teamSorted.sort(sortByDiff);
-
-        Comparator<Team> sortByPoints = (a, b) -> b.points - a.points;
-        teamSorted.sort(sortByPoints);
-
-
-
-
-        for (Team team : teamSorted) {
-            out.printf("%-" + teamNameLength + "s", team.getName());
-            out.printf("%4s", team.getPlayedGames());
-            out.printf("%4s", team.getWins());
-            out.printf("%4s", team.getTies());
-            out.printf("%4s", team.getLosses());
-            out.printf("%7s", team.getScored() + "-" + team.getAllowed());
-            out.printf("%4s%n", team.getPoints());
-        }
-
     }
-
+    
     /**
      * Updates the team statistics and standings according to the match
      * result described by the parameters.
@@ -210,41 +200,8 @@ public class Standings {
         }
 
     }
-    /**
-     * Reads game data from the specified file and updates the team
-     * statistics and standings accordingly.
-     *
-     * <p>The match data file is expected to contain lines of form
-     * "teamNameA\tgoalsA-goalsB\tteamNameB". Note that the '\t' are tabulator 
-     * characters.</p>
-     *
-     * <p>E.g. the line "Iceland\t3-2\tFinland" would describe a match between
-     * Iceland and Finland where Iceland scored 3 and Finland 2 goals.</p>
-     *
-     * @param filename      the name of the game data file to read.
-     * @throws IOException  if there is some kind of an IO error (e.g. if the 
-     * specified file does not exist).
-     */
-    public final void readMatchData(String filename) throws IOException{
-        try(var file = new BufferedReader(new FileReader(filename))) {
-            String line;
-            while((line = file.readLine()) != null) {
-                String[] parts = line.split("\\t");
-                String teamA = parts[0];
-                String teamB = parts[2];
 
-                String[] scores = parts[1].split("-");
-                String goalsA = scores[0];
-                String goalsB = scores[1];
-
-                int tgoalsA = Integer.parseInt(goalsA);
-                int tgoalsB = Integer.parseInt(goalsB);
-
-                addMatchResult(teamA, tgoalsA, tgoalsB, teamB);
-            }
-        }
-    }
-
+    
     /**
      * Returns a list of the teams in the same order as they would appear in a standings table.
      * @return  a list of the teams in the same order as they would appear in a standings table.
@@ -266,4 +223,51 @@ public class Standings {
 
         return teamReturn;
     }
+    
+    
+    /**
+     * Prints a formatted standings table to the provided output stream.
+     * @param out the output stream to use when printing the standings table.
+     */
+    public void printStandings(PrintStream out) {
+        ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
+        int teamNameLength = 0;
+
+        for (String team : teamNames) {
+            if (team.length() > teamNameLength) {
+                teamNameLength = team.length();
+            }
+        }
+
+
+        ArrayList<Team> teamSorted = new ArrayList<>(teamMap.values());
+
+        Comparator<Team> sortByName = (a, b) -> b.name.compareTo(a.name);
+        teamSorted.sort(sortByName);
+
+        Comparator<Team> sortByGoals = (a, b) -> b.scored - a.scored;
+        teamSorted.sort(sortByGoals);
+
+        Comparator<Team> sortByDiff = (a, b) -> (b.scored-b.allowed) - (a.scored-a.allowed);
+        teamSorted.sort(sortByDiff);
+
+        Comparator<Team> sortByPoints = (a, b) -> b.points - a.points;
+        teamSorted.sort(sortByPoints);
+
+        for (Team team : teamSorted) {
+            out.printf("%-" + teamNameLength + "s", team.getName());
+            out.printf("%4s", team.getPlayedGames());
+            out.printf("%4s", team.getWins());
+            out.printf("%4s", team.getTies());
+            out.printf("%4s", team.getLosses());
+            out.printf("%7s", team.getScored() + "-" + team.getAllowed());
+            out.printf("%4s%n", team.getPoints());
+        }
+
+    }
+
+    
+    
+
+    
 }
