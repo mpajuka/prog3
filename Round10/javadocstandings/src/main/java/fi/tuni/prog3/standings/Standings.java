@@ -127,7 +127,7 @@ public class Standings {
      * Prints a formatted standings table to the provided output stream.
      * @param out output stream for printing table
      */
-    public final void printStandings(PrintStream out) {
+    public void printStandings(PrintStream out) {
         ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
         int teamNameLength = 0;
 
@@ -211,7 +211,7 @@ public class Standings {
      * @param filename      name of file to be read
      * @throws IOException  file doesn't exist
      */
-    public void readMatchData(String filename) throws IOException{
+    public final void readMatchData(String filename) throws IOException{
         try(var file = new BufferedReader(new FileReader(filename))) {
             String line;
             while((line = file.readLine()) != null) {
