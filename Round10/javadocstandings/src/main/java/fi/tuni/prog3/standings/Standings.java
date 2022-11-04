@@ -63,57 +63,57 @@ public class Standings {
             this.name = name;
         }
 
-        /**
-         * Returns team name
-         * @return team name
+         /**
+         * Returns the name of the team.
+         * @return the name of the team.
          */
         public String getName() {
             return name;
         }
 
         /**
-         * Return amount of wins
-         * @return amount of wins
+         * Returns the number of wins of the team.
+         * @return the number of wins of the team.
          */
         public int getWins() {
             return wins;
         }
 
         /**
-         * Return amount of ties
-         * @return amount of ties
+         * Returns the number of ties of the team.
+         * @return the number of ties of the team.
          */
         public int getTies() {
             return ties;
         }
 
         /**
-         * Return amount of losses
-         * @return amount of losses
+         * Returns the number of losses of the team.
+         * @return the number of losses of the team.
          */
         public int getLosses() {
             return losses;
         }
 
         /**
-         * Return amount of scored goals
-         * @return amount of scored goals
+         * Returns the number of goals scored by the team.
+         * @return the number of goals scored by the team.
          */
         public int getScored() {
             return scored;
         }
 
-        /**
-         * Return amount of allowed goals
-         * @return amount of allowed goals
+         /**
+         * Returns the number of goals allowed (conceded) by the team.
+         * @return the number of goals allowed (conceded) by the team.
          */
         public int getAllowed() {
             return allowed;
         }
 
         /**
-         * Return amount of points
-         * @return amount of points
+         * Returns the overall number of points of the team.
+         * @return the overall number of points of the team.
          */
         public int getPoints() {
             return points;
@@ -123,7 +123,7 @@ public class Standings {
          * Return amount of played games
          * @return amount of played games
          */
-        public int getPlayedGames() {
+        private int getPlayedGames() {
             return playedGames;
         }
     }
