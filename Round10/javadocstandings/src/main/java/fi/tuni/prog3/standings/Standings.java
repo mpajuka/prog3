@@ -31,8 +31,9 @@ public class Standings {
      * read from the specified file. The result is identical to first constructing
      * an empty Standing object and then calling
      * {@link  #readMatchData(String) readMatchData(filename)}.
-     * @param filename  filename to read game data from
-     * @throws IOException  if file doesn't exist
+      * @param filename     the name of the game data file to read.
+     * @throws IOException  if there is some kind of an IO error (e.g. if the 
+     * specified file does not exist).
      */
     public Standings(String filename) throws IOException {
         readMatchData(filename);
@@ -55,7 +56,8 @@ public class Standings {
 
         /**
          * Constructs a Team object for storing statistics of the named team.   
-         * @param name the name of the team
+         * @param name the name of the team whose statistics the new team object
+         * stores.
          */
         public Team(String name) {
             this.name = name;
@@ -128,7 +130,7 @@ public class Standings {
 
     /**
      * Prints a formatted standings table to the provided output stream.
-     * @param out output stream for printing table
+     * @param out the output stream to use when printing the standings table.
      */
     public void printStandings(PrintStream out) {
         ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
@@ -171,12 +173,12 @@ public class Standings {
     }
 
     /**
-     * Updates the team statistics and standings according to the match result 
-     * described by the parameters.
-     * @param teamNameA name of team a
-     * @param goalsA    goals of team a
-     * @param goalsB    goals of team b
-     * @param teamNameB name of team b
+     * Updates the team statistics and standings according to the match
+     * result described by the parameters.
+     * @param teamNameA     the name of the first ("home") team.
+     * @param goalsA        the number of goals scored by the first team.
+     * @param goalsB        the number of goals scored by the second team.
+     * @param teamNameB     the name of the second ("away") team.
      */
     public void addMatchResult(String teamNameA, int goalsA, int goalsB, String teamNameB) {
         Team teamA = teamMap.computeIfAbsent(teamNameA, tn-> new Team(teamNameA));
@@ -209,7 +211,7 @@ public class Standings {
 
     }
     /**
-     Reads game data from the specified file and updates the team
+     * Reads game data from the specified file and updates the team
      * statistics and standings accordingly.
      *
      * <p>The match data file is expected to contain lines of form
@@ -219,9 +221,9 @@ public class Standings {
      * <p>E.g. the line "Iceland\t3-2\tFinland" would describe a match between
      * Iceland and Finland where Iceland scored 3 and Finland 2 goals.</p>
      *
-     * Result function
-     * @param filename      name of file to be read
-     * @throws IOException  file doesn't exist
+     * @param filename      the name of the game data file to read.
+     * @throws IOException  if there is some kind of an IO error (e.g. if the 
+     * specified file does not exist).
      */
     public final void readMatchData(String filename) throws IOException{
         try(var file = new BufferedReader(new FileReader(filename))) {
@@ -244,9 +246,8 @@ public class Standings {
     }
 
     /**
-     * Returns a list of the teams in the same order as they would appear in a 
-     * standings table.
-     * @return a list sorted based on the rules
+     * Returns a list of the teams in the same order as they would appear in a standings table.
+     * @return  a list of the teams in the same order as they would appear in a standings table.
      */
     public List<Team> getTeams() {
         List<Team> teamReturn = new ArrayList<>(teamMap.values());
