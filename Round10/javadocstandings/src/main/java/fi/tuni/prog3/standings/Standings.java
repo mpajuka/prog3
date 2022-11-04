@@ -206,7 +206,8 @@ public class Standings {
 
     }
     /**
-     * Reads data from text file and parses it to be read into the addMatch
+     * Reads game data from the specified file and updates the team statistics 
+     * and standings accordingly.
      * Result function
      * @param filename      name of file to be read
      * @throws IOException  file doesn't exist
