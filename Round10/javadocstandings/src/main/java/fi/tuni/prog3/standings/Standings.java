@@ -168,7 +168,8 @@ public class Standings {
     }
 
     /**
-     * Adds results to each team according to file input
+     * Updates the team statistics and standings according to the match result 
+     * described by the parameters.
      * @param teamNameA name of team a
      * @param goalsA    goals of team a
      * @param goalsB    goals of team b
