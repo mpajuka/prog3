@@ -127,7 +127,7 @@ public class Standings {
      * Prints team table according to rules
      * @param p output stream for printing table
      */
-    public void printStandings(PrintStream p) {
+    public void printStandings(PrintStream out) {
         ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
         int teamNameLength = 0;
 
@@ -156,13 +156,13 @@ public class Standings {
 
 
         for (Team team : teamSorted) {
-            p.printf("%-" + teamNameLength + "s", team.getName());
-            p.printf("%4s", team.getPlayedGames());
-            p.printf("%4s", team.getWins());
-            p.printf("%4s", team.getTies());
-            p.printf("%4s", team.getLosses());
-            p.printf("%7s", team.getScored() + "-" + team.getAllowed());
-            p.printf("%4s%n", team.getPoints());
+            out.printf("%-" + teamNameLength + "s", team.getName());
+            out.printf("%4s", team.getPlayedGames());
+            out.printf("%4s", team.getWins());
+            out.printf("%4s", team.getTies());
+            out.printf("%4s", team.getLosses());
+            out.printf("%7s", team.getScored() + "-" + team.getAllowed());
+            out.printf("%4s%n", team.getPoints());
         }
 
     }
