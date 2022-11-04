@@ -13,10 +13,10 @@ import java.util.HashMap;
  *  A class for maintaining team statistics and standings. Team standings are 
  *  determined by the following rules:
  * <ul>
- *     <li>First rule: Total points. Higher points first.</li>
- *     <li>Secondary rule: Goal difference  Higher difference first.</li>
- *     <li>Third rule: Goals scored. Higher number first.</li>
- *     <li>Fourth rule: Alphabetical order.</li>
+ *     <li>Primary rule: points total. Higher points come first.</li>
+ *     <li>Secondary rule: goal difference (scored minus allowed). Higher difference comes first.</li>
+ *     <li>Tertiary rule: number of goals scored. Higher number comes first.</li>
+ *     <li>Last rule: natural String order of team names.</li>
  * </ul>
  */
 public class Standings {
