@@ -27,10 +27,10 @@ public class Standings {
     public Standings() {
     }
     /**
-     * Constructs a Standings object that is initialized with the game data 
-     * read from the specified file. The result is identical to first 
-     * constructing an empty Standing object and then calling 
-     * {@link #readMatchData(filename).}
+     * Constructs a Standings object that is initialized with the game data
+     * read from the specified file. The result is identical to first constructing
+     * an empty Standing object and then calling
+     * {@link  #readMatchData(String) readMatchData(filename)}.
      * @param filename  filename to read game data from
      * @throws IOException  if file doesn't exist
      */
@@ -38,8 +38,10 @@ public class Standings {
         readMatchData(filename);
     }
 
-    /**
-     * A class for storing statistics of a single team.
+   /**
+     * A class for storing statistics of a single team. The class offers only 
+     * public getter functions. The enclosing class Standings is responsible for
+     * setting and updating team statistics.
      */
     public static class Team {
         private String name;
@@ -52,7 +54,7 @@ public class Standings {
         private int points;
 
         /**
-         * Constructs Team object to store match data
+         * Constructs a Team object for storing statistics of the named team.   
          * @param name the name of the team
          */
         public Team(String name) {
@@ -207,8 +209,16 @@ public class Standings {
 
     }
     /**
-     * Reads game data from the specified file and updates the team statistics 
-     * and standings accordingly.
+     Reads game data from the specified file and updates the team
+     * statistics and standings accordingly.
+     *
+     * <p>The match data file is expected to contain lines of form
+     * "teamNameA\tgoalsA-goalsB\tteamNameB". Note that the '\t' are tabulator 
+     * characters.</p>
+     *
+     * <p>E.g. the line "Iceland\t3-2\tFinland" would describe a match between
+     * Iceland and Finland where Iceland scored 3 and Finland 2 goals.</p>
+     *
      * Result function
      * @param filename      name of file to be read
      * @throws IOException  file doesn't exist
