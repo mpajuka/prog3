@@ -37,7 +37,7 @@ public class Standings {
     }
 
     /**
-     * Class for storing all the info for a specific team
+     * A class for storing statistics of a single team.
      */
     public static class Team {
         private String name;
