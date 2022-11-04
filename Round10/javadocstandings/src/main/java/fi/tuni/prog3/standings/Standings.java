@@ -127,7 +127,7 @@ public class Standings {
      * Prints a formatted standings table to the provided output stream.
      * @param out output stream for printing table
      */
-    public void printStandings(PrintStream out) {
+    public final void printStandings(PrintStream out) {
         ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
         int teamNameLength = 0;
 
