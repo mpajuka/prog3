@@ -27,8 +27,9 @@ public class Standings {
     public Standings() {
     }
     /**
-     * Constructs a Standings object
-     * {@link #readMatchData(String) readMatchData(fileName)}
+     * Constructs a Standings object that is initialized with the game data 
+     * read from the specified file.
+     * {@link #readMatchData(String)}
      * @param filename  filename to read game data from
      * @throws IOException  if file doesn't exist
      */
