@@ -22,12 +22,12 @@ import java.util.HashMap;
 public class Standings {
     private HashMap<String, Team> teamMap = new HashMap<>();
     /**
-     * Empty Standings object.
+     * Constructs an empty Standings object.
      */
     public Standings() {
     }
     /**
-     *
+     * Constructs a Standings object
      * {@link #readMatchData(String) readMatchData(fileName)}
      * @param filename  filename to read game data from
      * @throws IOException  if file doesn't exist
