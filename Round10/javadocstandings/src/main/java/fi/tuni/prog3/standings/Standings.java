@@ -124,7 +124,7 @@ public class Standings {
     }
 
     /**
-     * Prints team table according to rules
+     * Prints a formatted standings table to the provided output stream.
      * @param out output stream for printing table
      */
     public void printStandings(PrintStream out) {
