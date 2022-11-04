@@ -10,7 +10,7 @@ import java.util.Comparator;
 import java.util.HashMap;
 
 /**
- *  A class for maintaining team statistics and standings. Teams are 
+ *  A class for maintaining team statistics and standings. Team standings are 
  *  determined by the following rules:
  * <ul>
  *     <li>First rule: Total points. Higher points first.</li>
