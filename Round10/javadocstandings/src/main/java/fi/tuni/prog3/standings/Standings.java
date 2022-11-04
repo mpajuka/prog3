@@ -125,7 +125,7 @@ public class Standings {
 
     /**
      * Prints team table according to rules
-     * @param p output stream for printing table
+     * @param out output stream for printing table
      */
     public void printStandings(PrintStream out) {
         ArrayList<String> teamNames = new ArrayList<>(teamMap.keySet());
