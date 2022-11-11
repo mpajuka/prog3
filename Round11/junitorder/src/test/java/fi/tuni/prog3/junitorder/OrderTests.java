@@ -1,5 +1,7 @@
 package fi.tuni.prog3.junitorder;
 
+import java.util.ArrayList;
+import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertThrows;
@@ -72,20 +74,28 @@ public class OrderTests {
         assertEquals(expected, instance.getUnitPrice());
     }
     
+    @Test
+    public void testGetItem() {
+        Order.Item item = new Order.Item("a", 1.0);
+        Order.Entry instance = new Order.Entry(item, 1);
+        assertEquals(item, instance.getItem());
+    }
     
+    @Test
+    public void testEntryToString() {
+        Order.Entry instance = new Order.Entry(new Order.Item("a", 1.0), 1);
+        String expected = "1 units of Item(a, 1.00)";
+        assertEquals(expected, instance.toString());
+    }
    
     @Test
-    public void testAddItemsIllegalCount() {
+    public void testAddItemsIllegalCountAndDuplicate() {
         Order order = new Order();
         assertThrows(IllegalArgumentException.class, () ->
         {
            order.addItems(new Order.Item("foobar", 1.0), -1);
         });
-    }
-    
-    @Test
-    public void testAdditemsDuplicate() {
-        Order order = new Order();
+        
         order.addItems(new Order.Item("foobar", 1.0), 1);
         Order.Item duplicate = new Order.Item("foobar", 2.0);
         
@@ -96,4 +106,63 @@ public class OrderTests {
     }
     
     
+    @Test
+    public void testAddItemsOther() {
+        Order order = new Order();
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        assertThrows(IllegalArgumentException.class, () -> 
+        {
+            order.addItems("foobar", -1);
+        });
+        
+        assertThrows(NoSuchElementException.class, () ->
+        {
+           order.addItems("asdf", 1);
+        });
+    }
+    
+    @Test
+    public void testGetEntries() {
+        Order order = new Order();
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        assertEquals(1, order.getEntryCount());
+    }
+    
+    @Test
+    public void testGetItemCount() {
+        Order order = new Order();
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        order.addItems(new Order.Item("asdfhd", 1.0), 3);
+        assertEquals(4, order.getItemCount());
+    }
+    
+    @Test
+    public void testGetItemPrice() {
+        Order order = new Order();
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        order.addItems(new Order.Item("asdfhd", 1.0), 3);
+        assertEquals(4.0, order.getTotalPrice());
+    }
+    
+    @Test
+    public void testIsEmpty() {
+        Order order = new Order();
+        assertTrue(order.isEmpty());
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        assertFalse(order.isEmpty());
+    }
+    
+    @Test
+    public void testRemoveItems() {
+        Order order = new Order();
+        order.addItems(new Order.Item("foobar", 1.0), 2);
+        assertThrows(IllegalArgumentException.class, () -> {
+            order.removeItems("foobar", -1);
+            order.removeItems("foobar", 3);
+        });
+        
+        assertThrows(NoSuchElementException.class, () -> {
+            order.removeItems("asdfasdasd", 1);
+        });
+    }
 }
