@@ -9,10 +9,14 @@ import org.junit.jupiter.api.Test;
 public class OrderTests {
     
     @Test
-    public void testIllegalPriceAndName() {
+    public void testIllegalName() {
         Exception thrown = assertThrows(IllegalArgumentException.class,
                 () -> {new Order.Item(null, 1234.12);
                 });
+    }
+    
+    @Test
+    public void testIllegalPrice() {
         Exception thrown2 = assertThrows(IllegalArgumentException.class,
                 () -> {new Order.Item("test", -1); 
                 });
@@ -81,5 +85,26 @@ public class OrderTests {
         assertEquals(expected, instance.toString());
     }
    
+    @Test
+    public void testAddItemsIllegalCount() {
+        Order order = new Order();
+        assertThrows(IllegalArgumentException.class, () ->
+        {
+           order.addItems(new Order.Item("foobar", 1.0), -1);
+        });
+    }
+    
+    @Test
+    public void testAdditemsDuplicate() {
+        Order order = new Order();
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        Order.Item duplicate = new Order.Item("foobar", 2.0);
+        
+        assertThrows(IllegalStateException.class, () ->
+        {
+           order.addItems(duplicate, 1);
+        });
+    }
+    
     
 }
