@@ -63,7 +63,7 @@ public class AttainmentTest {
         Attainment a = new Attainment("A", "A", 1);
         Attainment b = new Attainment("B", "B", 2);
         assertTrue(a.compareTo(a) == 0);
-        assertTrue(a.compareTo(b) > 0);
-        assertTrue(b.compareTo(a) < 0);
+        assertTrue(a.compareTo(b) < 0);
+        assertTrue(b.compareTo(a) > 0);
     }
 }
