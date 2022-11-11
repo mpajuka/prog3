@@ -3,6 +3,8 @@ package fi.tuni.prog3.junitattainment;
 
 import static org.junit.jupiter.api.Assertions.assertThrows;
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.Test;
 
 
@@ -58,7 +60,10 @@ public class AttainmentTest {
     @Test
     public void testCompareTo() {
         System.out.println("compareTo");
-       
+        Attainment a = new Attainment("A", "A", 1);
+        Attainment b = new Attainment("B", "B", 2);
+        assertTrue(a.compareTo(a) == 0);
+        assertTrue(a.compareTo(b) < 0);
+        assertTrue(b.compareTo(a) > 0);
     }
- 
 }
