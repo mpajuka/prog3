@@ -39,7 +39,7 @@ public class OrderTests {
     @Test
     public void testToString() {
         Order.Item instance = new Order.Item("test", 1234.12);
-        String expected = "Item(test,1234.12)";
+        String expected = "Item(test, 1234.12)";
         assertEquals(expected, instance.toString());
     }
     
@@ -72,18 +72,7 @@ public class OrderTests {
         assertEquals(expected, instance.getUnitPrice());
     }
     
-    @Test
-    public void testGetItem() {
-        Order.Entry instance = new Order.Entry(new Order.Item("a", 1.0), 1);
-        assertEquals(new Order.Item("a", 1.0), instance.getItem());
-    }
     
-    @Test
-    public void testEntryToString() {
-        Order.Entry instance = new Order.Entry(new Order.Item("a", 1.0), 1);
-        String expected = "1 units of a";
-        assertEquals(expected, instance.toString());
-    }
    
     @Test
     public void testAddItemsIllegalCount() {
