@@ -81,7 +81,13 @@ public class OrderTests {
         Order.Entry instance = new Order.Entry(item, 1);
         assertEquals(item, instance.getItem());
     }
-    
+    @Test
+    public void testGetCount() {
+        Order.Item item = new Order.Item("a", 1.0);
+        Order.Entry instance = new Order.Entry(item, 1);
+        assertEquals(1, instance.getCount());
+    }
+            
     @Test
     public void testEntryToString() {
         Order.Entry instance = new Order.Entry(new Order.Item("a", 1.0), 1);
@@ -108,9 +114,13 @@ public class OrderTests {
     
     
     @Test
-    public void testAddItemsOther() {
+    public void testAddItemsStringAndCount() {
         Order order = new Order();
         order.addItems(new Order.Item("foobar", 1.0), 1);
+        assertEquals(order.getItemCount(), 1);
+        order.addItems(new Order.Item("foobar", 1.0), 1);
+        assertEquals(order.getItemCount(), 2);
+        
         assertThrows(IllegalArgumentException.class, () -> 
         {
             order.addItems("foobar", -1);
@@ -120,10 +130,12 @@ public class OrderTests {
         {
            order.addItems("asdf", 1);
         });
+        
+        
     }
     
     @Test
-    public void testGetEntries() {
+    public void testGetEntryCount() {
         Order order = new Order();
         order.addItems(new Order.Item("foobar", 1.0), 1);
         assertEquals(1, order.getEntryCount());
@@ -138,7 +150,7 @@ public class OrderTests {
     }
     
     @Test
-    public void testGetItemPrice() {
+    public void testGetTotalPrice() {
         Order order = new Order();
         order.addItems(new Order.Item("foobar", 1.0), 1);
         order.addItems(new Order.Item("asdfhd", 1.0), 3);
