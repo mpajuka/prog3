@@ -51,7 +51,7 @@ public class AttainmentTest {
     public void testToString() {
         System.out.println("toString");
         Attainment instance = new Attainment("COMP.CS.140", "12344321", 3);
-        String expected = "COMP.CS.140 12344312 3";
+        String expected = "COMP.CS.140 12344321 3";
         assertEquals(expected, instance.toString());
     }
     
