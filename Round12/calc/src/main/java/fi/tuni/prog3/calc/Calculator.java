@@ -78,28 +78,28 @@ public class Calculator extends Application {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a + b;
-            fieldRes.setText(String.format("%.2f", r));
+            fieldRes.setText(String.format("%.1f", r));
         });
         
         btnSub.setOnAction((ActionEvent e) -> {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a - b;
-            fieldRes.setText(String.format("%.2f", r));
+            fieldRes.setText(String.format("%.1f", r));
         });
         
         btnMul.setOnAction((ActionEvent e) -> {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a * b;
-            fieldRes.setText(String.format("%.1f", r));
+            fieldRes.setText(String.format("%.2f", r));
         });
         
         btnDiv.setOnAction((ActionEvent e) -> {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a / b;
-            fieldRes.setText(String.format("%.2f", r));
+            fieldRes.setText(String.format("%.1f", r));
         });
         
         stage.setScene(scene);
