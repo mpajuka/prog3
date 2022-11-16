@@ -60,7 +60,7 @@ public class Calculator extends Application {
         hbBtn.getChildren().add(btnMul);
         
         Button btnDiv = new Button("Divide");
-        btnMul.setId("btnDiv");
+        btnDiv.setId("btnDiv");
         hbBtn.getChildren().add(btnDiv);
         
         Label fieldRes = new Label();
