@@ -1,5 +1,7 @@
 package fi.tuni.prog3.calc;
 
+import java.math.RoundingMode;
+import java.text.DecimalFormat;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -78,28 +80,41 @@ public class Calculator extends Application {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a + b;
-            fieldRes.setText(String.format("%.1f", r));
+            DecimalFormat format = new DecimalFormat("0.##");
+            format.setMinimumFractionDigits(1);
+            format.setRoundingMode(RoundingMode.DOWN);
+            fieldRes.setText(format.format(r));
+
         });
         
         btnSub.setOnAction((ActionEvent e) -> {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a - b;
-            fieldRes.setText(String.format("%.1f", r));
+            DecimalFormat format = new DecimalFormat("0.##");
+            format.setMinimumFractionDigits(1);
+            format.setRoundingMode(RoundingMode.DOWN);
+            fieldRes.setText(format.format(r));
         });
         
         btnMul.setOnAction((ActionEvent e) -> {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a * b;
-            fieldRes.setText(String.format("%.1f", r));
+            DecimalFormat format = new DecimalFormat("0.##");
+            format.setMinimumFractionDigits(1);
+            format.setRoundingMode(RoundingMode.DOWN);
+            fieldRes.setText(format.format(r));
         });
         
         btnDiv.setOnAction((ActionEvent e) -> {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a / b;
-            fieldRes.setText(String.format("%.1f", r));
+            DecimalFormat format = new DecimalFormat("0.##");
+            format.setMinimumFractionDigits(1);
+            format.setRoundingMode(RoundingMode.DOWN);
+            fieldRes.setText(format.format(r));
         });
         
         stage.setScene(scene);
