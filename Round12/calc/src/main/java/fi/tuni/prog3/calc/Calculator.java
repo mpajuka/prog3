@@ -26,7 +26,7 @@ public class Calculator extends Application {
         stage.setTitle("Calculator");
         
         GridPane grid = new GridPane();
-        Scene scene = new Scene(grid, 350, 125);
+        Scene scene = new Scene(grid, 350, 100);
         
         TextField fieldOp1 = new TextField();
         fieldOp1.setId("fieldOp1");
@@ -74,48 +74,32 @@ public class Calculator extends Application {
         grid.add(labelRes, 0, 4);
         
         
-        btnAdd.setOnAction(new EventHandler<ActionEvent>() {
-            
-            @Override
-            public void handle(ActionEvent e) {
-                var a = Double.parseDouble(fieldOp1.getText());
-                var b = Double.parseDouble(fieldOp2.getText());
-                var r = a + b;
-                fieldRes.setText(String.format("%.1f", r));
-            }
+        btnAdd.setOnAction((ActionEvent e) -> {
+            var a = Double.parseDouble(fieldOp1.getText());
+            var b = Double.parseDouble(fieldOp2.getText());
+            var r = a + b;
+            fieldRes.setText(String.format("%.2f", r));
         });
         
-        btnSub.setOnAction(new EventHandler<ActionEvent>() {
-            
-            @Override
-            public void handle(ActionEvent e) {
-                var a = Double.parseDouble(fieldOp1.getText());
-                var b = Double.parseDouble(fieldOp2.getText());
-                var r = a - b;
-                fieldRes.setText(String.format("%.1f", r));
-            }
+        btnSub.setOnAction((ActionEvent e) -> {
+            var a = Double.parseDouble(fieldOp1.getText());
+            var b = Double.parseDouble(fieldOp2.getText());
+            var r = a - b;
+            fieldRes.setText(String.format("%.2f", r));
         });
         
-        btnMul.setOnAction(new EventHandler<ActionEvent>() {
-            
-            @Override
-            public void handle(ActionEvent e) {
-                var a = Double.parseDouble(fieldOp1.getText());
-                var b = Double.parseDouble(fieldOp2.getText());
-                var r = a * b;
-                fieldRes.setText(String.format("%.2f", r));
-            }
+        btnMul.setOnAction((ActionEvent e) -> {
+            var a = Double.parseDouble(fieldOp1.getText());
+            var b = Double.parseDouble(fieldOp2.getText());
+            var r = a * b;
+            fieldRes.setText(String.format("%.2f", r));
         });
         
-        btnDiv.setOnAction(new EventHandler<ActionEvent>() {
-            
-            @Override
-            public void handle(ActionEvent e) {
-                var a = Double.parseDouble(fieldOp1.getText());
-                var b = Double.parseDouble(fieldOp2.getText());
-                var r = a / b;
-                fieldRes.setText(String.format("%.1f", r));
-            }
+        btnDiv.setOnAction((ActionEvent e) -> {
+            var a = Double.parseDouble(fieldOp1.getText());
+            var b = Double.parseDouble(fieldOp2.getText());
+            var r = a / b;
+            fieldRes.setText(String.format("%.2f", r));
         });
         
         stage.setScene(scene);
