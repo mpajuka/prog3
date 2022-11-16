@@ -80,9 +80,8 @@ public class Calculator extends Application {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a + b;
-            DecimalFormat format = new DecimalFormat("0.##");
+            DecimalFormat format = new DecimalFormat("0.####");
             format.setMinimumFractionDigits(1);
-            format.setRoundingMode(RoundingMode.DOWN);
             fieldRes.setText(format.format(r));
 
         });
@@ -91,9 +90,8 @@ public class Calculator extends Application {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a - b;
-            DecimalFormat format = new DecimalFormat("0.##");
+            DecimalFormat format = new DecimalFormat("0.####");
             format.setMinimumFractionDigits(1);
-            format.setRoundingMode(RoundingMode.DOWN);
             fieldRes.setText(format.format(r));
         });
         
@@ -101,9 +99,8 @@ public class Calculator extends Application {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a * b;
-            DecimalFormat format = new DecimalFormat("0.##");
+            DecimalFormat format = new DecimalFormat("0.####");
             format.setMinimumFractionDigits(1);
-            format.setRoundingMode(RoundingMode.DOWN);
             fieldRes.setText(format.format(r));
         });
         
@@ -111,9 +108,8 @@ public class Calculator extends Application {
             var a = Double.parseDouble(fieldOp1.getText());
             var b = Double.parseDouble(fieldOp2.getText());
             var r = a / b;
-            DecimalFormat format = new DecimalFormat("0.##");
+            DecimalFormat format = new DecimalFormat("0.####");
             format.setMinimumFractionDigits(1);
-            format.setRoundingMode(RoundingMode.DOWN);
             fieldRes.setText(format.format(r));
         });
         
