@@ -28,40 +28,50 @@ public class Calculator extends Application {
         GridPane grid = new GridPane();
         Scene scene = new Scene(grid, 350, 125);
         
-        Label labelOp1 = new Label("First operand:");
-        grid.add(labelOp1, 0, 1);
-        
-        Label labelOp2 = new Label("Second operand:");
-        grid.add(labelOp2, 0, 2);
-        
-        Label labelRes = new Label("Result:");
-        grid.add(labelRes, 0, 4);
-        
         TextField fieldOp1 = new TextField();
+        fieldOp1.setId("fieldOp1");
         grid.add(fieldOp1, 1, 1);
         
         TextField fieldOp2 = new TextField();
+        fieldOp2.setId("fieldOp2");
         grid.add(fieldOp2, 1, 2);
         
-        TextField fieldRes = new TextField();
-        fieldRes.setBackground(new Background(new BackgroundFill(Color.WHITE, 
-                null, null)));
-        grid.add(fieldRes, 1, 4);
+        Label labelOp1 = new Label("First operand:");
+        labelOp1.setId("labelOp1");
+        grid.add(labelOp1, 0, 1);
         
+        Label labelOp2 = new Label("Second operand:");
+        labelOp2.setId("labelOp2");
+        grid.add(labelOp2, 0, 2);
+       
         HBox hbBtn = new HBox(10);
         grid.add(hbBtn, 1, 3);
         
         Button btnAdd = new Button("Add");
+        btnAdd.setId("btnAdd");
         hbBtn.getChildren().add(btnAdd);
         
         Button btnSub = new Button("Subtract");
+        btnSub.setId("btnSub");
         hbBtn.getChildren().add(btnSub);
         
         Button btnMul = new Button("Multiply");
+        btnMul.setId("btnMul");
         hbBtn.getChildren().add(btnMul);
         
         Button btnDiv = new Button("Divide");
+        btnMul.setId("btnDiv");
         hbBtn.getChildren().add(btnDiv);
+        
+        Label fieldRes = new Label();
+        fieldRes.setId("fieldRes");
+        fieldRes.setBackground(new Background(new BackgroundFill(Color.WHITE, 
+                null, null)));
+        grid.add(fieldRes, 1, 4);
+        
+        Label labelRes = new Label("Result:");
+        labelRes.setId("labelRes");
+        grid.add(labelRes, 0, 4);
         
         
         btnAdd.setOnAction(new EventHandler<ActionEvent>() {
