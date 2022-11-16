@@ -7,9 +7,12 @@ import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextField;
+import javafx.scene.layout.Background;
+import javafx.scene.layout.BackgroundFill;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.StackPane;
+import javafx.scene.paint.Color;
 import javafx.stage.Stage;
 
 
@@ -25,81 +28,83 @@ public class Calculator extends Application {
         GridPane grid = new GridPane();
         Scene scene = new Scene(grid, 350, 125);
         
-        Label first = new Label("First operand: ");
-        grid.add(first, 0, 1);
+        Label labelOp1 = new Label("First operand:");
+        grid.add(labelOp1, 0, 1);
         
-        Label second = new Label("Second operand: ");
-        grid.add(second, 0, 2);
+        Label labelOp2 = new Label("Second operand:");
+        grid.add(labelOp2, 0, 2);
         
-        Label resultText = new Label("Result: ");
-        grid.add(resultText, 0, 4);
+        Label labelRes = new Label("Result:");
+        grid.add(labelRes, 0, 4);
         
-        TextField inputFirst = new TextField();
-        grid.add(inputFirst, 1, 1);
+        TextField fieldOp1 = new TextField();
+        grid.add(fieldOp1, 1, 1);
         
-        TextField inputSecond = new TextField();
-        grid.add(inputSecond, 1, 2);
+        TextField fieldOp2 = new TextField();
+        grid.add(fieldOp2, 1, 2);
         
-        TextField resultField = new TextField();
-        grid.add(resultField, 1, 4);
+        TextField fieldRes = new TextField();
+        fieldRes.setBackground(new Background(new BackgroundFill(Color.WHITE, 
+                null, null)));
+        grid.add(fieldRes, 1, 4);
         
         HBox hbBtn = new HBox(10);
         grid.add(hbBtn, 1, 3);
         
-        Button add = new Button("Add");
-        hbBtn.getChildren().add(add);
+        Button btnAdd = new Button("Add");
+        hbBtn.getChildren().add(btnAdd);
         
-        Button subtract = new Button("Subtract");
-        hbBtn.getChildren().add(subtract);
+        Button btnSub = new Button("Subtract");
+        hbBtn.getChildren().add(btnSub);
         
-        Button multiply = new Button("Multiply");
-        hbBtn.getChildren().add(multiply);
+        Button btnMul = new Button("Multiply");
+        hbBtn.getChildren().add(btnMul);
         
-        Button divide = new Button("Divide");
-        hbBtn.getChildren().add(divide);
+        Button btnDiv = new Button("Divide");
+        hbBtn.getChildren().add(btnDiv);
         
         
-        add.setOnAction(new EventHandler<ActionEvent>() {
+        btnAdd.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
             public void handle(ActionEvent e) {
-                var a = Double.parseDouble(inputFirst.getText());
-                var b = Double.parseDouble(inputSecond.getText());
+                var a = Double.parseDouble(fieldOp1.getText());
+                var b = Double.parseDouble(fieldOp2.getText());
                 var r = a + b;
-                resultField.setText(String.format("%.1f", r));
+                fieldRes.setText(String.format("%.1f", r));
             }
         });
         
-        subtract.setOnAction(new EventHandler<ActionEvent>() {
+        btnSub.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
             public void handle(ActionEvent e) {
-                var a = Double.parseDouble(inputFirst.getText());
-                var b = Double.parseDouble(inputSecond.getText());
+                var a = Double.parseDouble(fieldOp1.getText());
+                var b = Double.parseDouble(fieldOp2.getText());
                 var r = a - b;
-                resultField.setText(String.format("%.1f", r));
+                fieldRes.setText(String.format("%.1f", r));
             }
         });
         
-        multiply.setOnAction(new EventHandler<ActionEvent>() {
+        btnMul.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
             public void handle(ActionEvent e) {
-                var a = Double.parseDouble(inputFirst.getText());
-                var b = Double.parseDouble(inputSecond.getText());
+                var a = Double.parseDouble(fieldOp1.getText());
+                var b = Double.parseDouble(fieldOp2.getText());
                 var r = a * b;
-                resultField.setText(String.format("%.1f", r));
+                fieldRes.setText(String.format("%.2f", r));
             }
         });
         
-        divide.setOnAction(new EventHandler<ActionEvent>() {
+        btnDiv.setOnAction(new EventHandler<ActionEvent>() {
             
             @Override
             public void handle(ActionEvent e) {
-                var a = Double.parseDouble(inputFirst.getText());
-                var b = Double.parseDouble(inputSecond.getText());
+                var a = Double.parseDouble(fieldOp1.getText());
+                var b = Double.parseDouble(fieldOp2.getText());
                 var r = a / b;
-                resultField.setText(String.format("%.1f", r));
+                fieldRes.setText(String.format("%.1f", r));
             }
         });
         
