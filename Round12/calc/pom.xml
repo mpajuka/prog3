@@ -32,6 +32,12 @@
                 <version>0.0.8</version>
                 <configuration>
                     <mainClass>fi.tuni.prog3.calc.Calculator</mainClass>
+                    <launcher>calculator.sh</launcher>
+                    <compress>2</compress>
+                    <jlinkZipName>calculator-prog3</jlinkZipName>
+                    <jlinkImageName>calculator</jlinkImageName>
+                    <noManPages>true</noManPages>
+                    <noHeaderFiles>true</noHeaderFiles>
                 </configuration>
                 <executions>
                     <execution>
